@@ -1,7 +1,7 @@
 # Vulnerability Assessment and Penetration Testing (VAPT) Report  
 ## Root Me (TryHackMe)  
 
-**Prepared by:** Anonymous Pentester  
+**Prepared by:** Nishanth Antony
 **Date:** August 11, 2025  
 **Difficulty:** Easy  
 **Platform:** [TryHackMe](https://tryhackme.com)  
