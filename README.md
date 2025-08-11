@@ -34,7 +34,7 @@ Each report includes:
 | Challenge Name      | Platform     | Difficulty | Skills Demonstrated |
 |--------------------|-------------|-----------|---------------------|
 | Bounty Hacker      | TryHackMe   | Easy      | FTP enum, SSH brute-force, PrivEsc via `tar` |
-
+| Root Me            | TryHackMe   | Easy      | Webshell exploitation via `php`, File upload bypass |
 ---
 
 ## 🎯 Skills Covered So Far  
