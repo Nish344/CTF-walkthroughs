@@ -1,7 +1,7 @@
 # Vulnerability Assessment and Penetration Testing (VAPT) Report  
 ## Bounty Hacker (TryHackMe)  
 
-**Prepared by:** Anonymous  
+**Prepared by:** Nishanth Antony
 **Date:** August 08, 2025  
 **Difficulty:** Easy  
 **Platform:** [TryHackMe](https://tryhackme.com)  
