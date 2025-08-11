@@ -18,7 +18,8 @@ Each report includes:
 ```
 
 📁 TryHackMe/
-└── Bounty\_Hacker.md       
+├── Bounty_Hacker.md
+└── Root_me.md  
 📁 PicoCTF/
 (upcoming)
 📁 CTFlearn/
