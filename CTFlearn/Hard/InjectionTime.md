@@ -1,6 +1,6 @@
 # CTFlearn Web Exploitation Labs – Detailed Walkthrough
 
-**Prepared by:** Nishanth Antony
+**Prepared by:** Nishanth Antony  
 **Date:** August 12, 2025  
 **Platform:** [CTFlearn](https://ctflearn.com)  
 **Category:** Web Exploitation  
