@@ -19,7 +19,11 @@ Each report includes:
 
 📁 TryHackMe/
 ├── Bounty_Hacker.md
-└── Root_me.md  
+├── Brick_Heist.md
+├── FlipIt.md
+├── Light.md
+└── Root_me.md
+
 📁 PicoCTF/
 (upcoming)
 📁 CTFlearn/
@@ -35,6 +39,9 @@ Each report includes:
 | Challenge Name      | Platform     | Difficulty | Skills Demonstrated |
 |--------------------|-------------|-----------|---------------------|
 | Bounty Hacker      | TryHackMe   | Easy      | FTP enum, SSH brute-force, PrivEsc via `tar` |
+| Brick Heist        | TryHackMe   | Easy      | Reverse Shell, Public CVE Exploitation |
+| Flip It            | TryHackMe   | Easy      | Cryptanalysis of CBC mode |
+| Light              | TryHackMe   | Easy      | Query enumeration in `SQLite` |
 | Root Me            | TryHackMe   | Easy      | Webshell exploitation via `php`, File upload bypass |
 | Injection Time     | CTFLearn    | Hard      | Sqli via `sqlmap` |
 ---
