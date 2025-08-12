@@ -36,6 +36,7 @@ Each report includes:
 |--------------------|-------------|-----------|---------------------|
 | Bounty Hacker      | TryHackMe   | Easy      | FTP enum, SSH brute-force, PrivEsc via `tar` |
 | Root Me            | TryHackMe   | Easy      | Webshell exploitation via `php`, File upload bypass |
+| Injection Time     | CTFLearn    | Hard      | Sqli via `sqlmap` |
 ---
 
 ## 🎯 Skills Covered So Far  
