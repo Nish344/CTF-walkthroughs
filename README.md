@@ -15,35 +15,48 @@ Each report includes:
 
 ## 📂 Repository Structure  
 
-```
-
 📁 TryHackMe/
-├── Bounty_Hacker.md
-├── Brick_Heist.md
-├── FlipIt.md
-├── Light.md
-└── Root_me.md
+├── 📁 Easy
+│ ├── Bounty_Hacker.md
+│ ├── Brick_Heist.md
+│ ├── FlipIt.md
+│ ├── Light.md
+│ ├── Root_Me.md
+│ ├── tomcat_ghost.md
+│ └── readme.md
+│
+├── 📁 Medium
+│ ├── Golden_Eye.md
+│ └── readme.md
+│
+├── 📁 Hard
+│ └── readme.md
 
 📁 PicoCTF/
 (upcoming)
-📁 CTFlearn/
-└──📁Hard
-    └──Injection Time
 
-```
+📁 CTFlearn/
+└── 📁 Hard
+└── Injection_Time.md
+
+markdown
+Copy
+Edit
 
 ---
 
 ## ✅ Completed Write-ups  
 
-| Challenge Name      | Platform     | Difficulty | Skills Demonstrated |
-|--------------------|-------------|-----------|---------------------|
-| Bounty Hacker      | TryHackMe   | Easy      | FTP enum, SSH brute-force, PrivEsc via `tar` |
-| Brick Heist        | TryHackMe   | Easy      | Reverse Shell, Public CVE Exploitation |
-| Flip It            | TryHackMe   | Easy      | Cryptanalysis of CBC mode |
-| Light              | TryHackMe   | Easy      | Query enumeration in `SQLite` |
-| Root Me            | TryHackMe   | Easy      | Webshell exploitation via `php`, File upload bypass |
-| Injection Time     | CTFLearn    | Hard      | Sqli via `sqlmap` |
+| Challenge Name       | Platform     | Difficulty | Skills Demonstrated |
+|---------------------|-------------|-----------|---------------------|
+| Bounty Hacker       | TryHackMe   | Easy      | FTP enum, SSH brute-force, PrivEsc via `tar` |
+| Brick Heist         | TryHackMe   | Easy      | Reverse Shell, Public CVE Exploitation |
+| Flip It             | TryHackMe   | Easy      | Cryptanalysis of CBC mode |
+| Light               | TryHackMe   | Easy      | Query enumeration in `SQLite` |
+| Root Me             | TryHackMe   | Easy      | Webshell exploitation via `php`, File upload bypass |
+| tomcat ghost        | TryHackMe   | Easy      | Apache Tomcat Ghostcat vulnerability exploitation |
+| Golden Eye          | TryHackMe   | Medium    | Password cracking, RDP exploitation |
+| Injection Time      | CTFlearn    | Hard      | SQLi via `sqlmap` |
 ---
 
 ## 🎯 Skills Covered So Far  
@@ -72,4 +85,4 @@ Every write-up is prepared with a focus on **clarity** so that even beginners ca
 ## 📬 Connect with Me  
 
 - **GitHub:** [https://github.com/Nish344](https://github.com/Nish344)  
-- **LinkedIn:** [https://linkedin.com/in/nishanth-antony-b60110289](https://linkedin.com/in/nishanth-antony-b60110289)  
+- **LinkedIn:** [https://linkedin.com/in/nishanth-antony-b60110289](https://linkedin.com/in/nishanth-antony-b60110289)
