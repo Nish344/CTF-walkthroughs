@@ -15,29 +15,27 @@ Each report includes:
 
 ## 📂 Repository Structure  
 
-📁 TryHackMe/
-├── 📁 Easy
-│ ├── Bounty_Hacker.md
-│ ├── Brick_Heist.md
-│ ├── FlipIt.md
-│ ├── Light.md
-│ ├── Root_Me.md
-│ ├── tomcat_ghost.md
-│ └── readme.md
-│
-├── 📁 Medium
-│ ├── Golden_Eye.md
-│ └── readme.md
-│
-├── 📁 Hard
-│ └── readme.md
+📁 TryHackMe/  
+├── 📁 Easy   
+│ ├── Bounty_Hacker.md   
+│ ├── Brick_Heist.md   
+│ ├── FlipIt.md   
+│ ├── Light.md   
+│ ├── Root_Me.md  
+│ └──tomcat_ghost.md  
+│   
+├── 📁 Medium  
+│ ├── Golden_Eye.md    
+│  
+├── 📁 Hard  
+│ └── (upcoming)    
 
-📁 PicoCTF/
+📁 PicoCTF/  
 (upcoming)
 
-📁 CTFlearn/
-└── 📁 Hard
-└── Injection_Time.md
+📁 CTFlearn/  
+└── 📁 Hard  
+    └── Injection_Time.md  
 
 markdown
 Copy
