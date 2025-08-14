@@ -25,7 +25,8 @@ Each report includes:
 │ └──tomcat_ghost.md  
 │   
 ├── 📁 Medium  
-│ ├── Golden_Eye.md    
+│ ├── Golden_Eye.md   
+│  └── UltraTech.md  
 │  
 ├── 📁 Hard  
 │ └── (upcoming)    
@@ -36,10 +37,6 @@ Each report includes:
 📁 CTFlearn/  
 └── 📁 Hard  
     └── Injection_Time.md  
-
-markdown
-Copy
-Edit
 
 ---
 
@@ -54,6 +51,7 @@ Edit
 | Root Me             | TryHackMe   | Easy      | Webshell exploitation via `php`, File upload bypass |
 | tomcat ghost        | TryHackMe   | Easy      | Apache Tomcat Ghostcat vulnerability exploitation |
 | Golden Eye          | TryHackMe   | Medium    | Password cracking, RDP exploitation |
+| UltraTech           | TryHackMe   | Medium    | Docker based privilage escalation |
 | Injection Time      | CTFlearn    | Hard      | SQLi via `sqlmap` |
 ---
 
