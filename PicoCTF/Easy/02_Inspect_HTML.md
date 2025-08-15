@@ -2,9 +2,7 @@
 
 ## 📌 Challenge Info
 - **Category**: Web Exploitation
-- **Points**: Not specified
 - **Difficulty**: Easy
-- **Challenge Link**: N/A
 
 ---
 
@@ -35,18 +33,14 @@ A webpage contained a flag inside an HTML comment, visible through source code i
    <!-- Flag: picoCTF{flag} -->
 Extracted flag.
 
-🧾 Flag
+## 🧾 Flag
 ```text
 picoCTF{flag}
 ```
 
-📚 Learning Outcomes
+## 📚 Learning Outcomes
 - HTML comments can accidentally reveal sensitive data.
 - Always review page source in web testing.
 
-🔗 References
-OWASP – Information Leakage
-
-yaml
-Copy
-Edit
+## 🔗 References
+[OWASP – Information Leakage](https://owasp.org/www-community/attacks/Information_leakage)
