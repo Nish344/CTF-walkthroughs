@@ -32,7 +32,7 @@ Each report includes:
 
 - **Easy/**
     - [Bounty_Hacker.md](TryHackMe/Easy/Bounty_Hacker.md)
-    - [Brick Heist.md](TryHackMe/Easy/Brick Heist.md)
+    - [Brick_Heist.md](TryHackMe/Easy/Brick_Heist.md)
     - [FlipIt.md](TryHackMe/Easy/FlipIt.md)
     - [Light.md](TryHackMe/Easy/Light.md)
     - [Root_Me.md](TryHackMe/Easy/Root_Me.md)
@@ -54,7 +54,7 @@ Each report includes:
 | 🛡️ PicoCTF Lab Walkthrough – Tab Tab Attack | PicoCTF | Easy | — | [Open](PicoCTF/Easy/06_Tab_Tab_Attack.md) |
 | 🛡️ PicoCTF Lab Walkthrough – WebDecode | PicoCTF | Easy | — | [Open](PicoCTF/Easy/01_WebDecode.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Where Are the Robots | PicoCTF | Easy | — | [Open](PicoCTF/Easy/03_Where_Are_The_Robots.md) |
-| Bricks Heist – Hack The Box (HTB) Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Brick Heist.md) |
+| Bricks Heist – Hack The Box (HTB) Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Brick_Heist.md) |
 | Flip It!! – Hack The Box Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/FlipIt.md) |
 | Light – Hack The Box Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Light.md) |
 | Tomcat Ghost – TryHackMe Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/tomcat_ghost.md) |
