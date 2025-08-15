@@ -67,7 +67,11 @@ Each report includes:
 ---
 
 ## 🎯 Skills Covered So Far
-- sqlmap
+- **Reconnaissance**: `nmap`, `gobuster`, `dirb`, `enum4linux` 
+- **Exploitation**: `FTP login`, `SQLi`, `command injection`, `SSRF`, `path traversal`
+- **Password Attacks**: `hydra`, `john`
+- **Post-Exploitation**: `Privilege escalation`, `sudo misconfigurations`
+- **Tools**: `nmap`, `ftp`, `hydra`, `ssh`, `sudo`, `tar`, `sqlmap`, `burpsuite`
 
 ---
 
