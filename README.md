@@ -14,11 +14,11 @@ Each report includes:
 
 ## 📂 Repository Structure
 ### 📁 CTFlearn
-    - **Hard/**
+ **Hard/**
         - [InjectionTime.md](CTFlearn/Hard/InjectionTime.md)
 
 ### 📁 PicoCTF
-    - **Easy/**
+- **Easy/**
         - [01_WebDecode.md](PicoCTF/Easy/01_WebDecode.md)
         - [02_Inspect_HTML.md](PicoCTF/Easy/02_Inspect_HTML.md)
         - [03_Where_Are_The_Robots.md](PicoCTF/Easy/03_Where_Are_The_Robots.md)
@@ -27,14 +27,14 @@ Each report includes:
         - [06_Tab_Tab_Attack.md](PicoCTF/Easy/06_Tab_Tab_Attack.md)
 
 ### 📁 TryHackMe
-    - **Easy/**
+ - **Easy/**
         - [Bounty_Hacker.md](TryHackMe/Easy/Bounty_Hacker.md)
         - [Brick Heist.md](TryHackMe/Easy/Brick Heist.md)
         - [FlipIt.md](TryHackMe/Easy/FlipIt.md)
         - [Light.md](TryHackMe/Easy/Light.md)
         - [Root_Me.md](TryHackMe/Easy/Root_Me.md)
         - [tomcat_ghost.md](TryHackMe/Easy/tomcat_ghost.md)
-    - **Medium/**
+- **Medium/**
         - [Golden_Eye.md](TryHackMe/Medium/Golden_Eye.md)
         - [RSA_breaker.md](TryHackMe/Medium/RSA_breaker.md)
         - [UltraTech.md](TryHackMe/Medium/UltraTech.md)
