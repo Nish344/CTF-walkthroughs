@@ -1,7 +1,6 @@
-# 🛡️ Cybersecurity Lab Reports & CTF Write-ups  
+# 🛡️ Cybersecurity Lab Reports & CTF Write-ups
 
-Welcome to my collection of **Vulnerability Assessment and Penetration Testing (VAPT) reports** and **CTF walkthroughs**.  
-This repository is where I document my learning journey in ethical hacking, penetration testing, and cybersecurity challenges.  
+Welcome to my collection of **Vulnerability Assessment and Penetration Testing (VAPT) reports** and **CTF walkthroughs**. This repository documents my journey in ethical hacking, penetration testing, and cybersecurity challenges.
 
 Each report includes:
 - **Reconnaissance steps** (how I scanned and identified services)
@@ -13,72 +12,71 @@ Each report includes:
 
 ---
 
-## 📂 Repository Structure  
+## 📂 Repository Structure
+### 📁 CTFlearn
+    - **Hard/**
+        - [InjectionTime.md](CTFlearn/Hard/InjectionTime.md)
 
-📁 TryHackMe/  
-├── 📁 Easy   
-│ ├── Bounty_Hacker.md   
-│ ├── Brick_Heist.md   
-│ ├── FlipIt.md   
-│ ├── Light.md   
-│ ├── Root_Me.md  
-│ └──tomcat_ghost.md  
-│   
-├── 📁 Medium  
-│ ├── Golden_Eye.md   
-│  └── UltraTech.md  
-│  
-├── 📁 Hard  
-│ └── (upcoming)    
+### 📁 PicoCTF
+    - **Easy/**
+        - [01_WebDecode.md](PicoCTF/Easy/01_WebDecode.md)
+        - [02_Inspect_HTML.md](PicoCTF/Easy/02_Inspect_HTML.md)
+        - [03_Where_Are_The_Robots.md](PicoCTF/Easy/03_Where_Are_The_Robots.md)
+        - [04_SSTI_1.md](PicoCTF/Easy/04_SSTI_1.md)
+        - [05_Image_Metadata_CTF.md](PicoCTF/Easy/05_Image_Metadata_CTF.md)
+        - [06_Tab_Tab_Attack.md](PicoCTF/Easy/06_Tab_Tab_Attack.md)
 
-📁 PicoCTF/  
-(upcoming)
-
-📁 CTFlearn/  
-└── 📁 Hard  
-    └── Injection_Time.md  
-
----
-
-## ✅ Completed Write-ups  
-
-| Challenge Name       | Platform     | Difficulty | Skills Demonstrated |
-|---------------------|-------------|-----------|---------------------|
-| Bounty Hacker       | TryHackMe   | Easy      | FTP enum, SSH brute-force, PrivEsc via `tar` |
-| Brick Heist         | TryHackMe   | Easy      | Reverse Shell, Public CVE Exploitation |
-| Flip It             | TryHackMe   | Easy      | Cryptanalysis of CBC mode |
-| Light               | TryHackMe   | Easy      | Query enumeration in `SQLite` |
-| Root Me             | TryHackMe   | Easy      | Webshell exploitation via `php`, File upload bypass |
-| tomcat ghost        | TryHackMe   | Easy      | Apache Tomcat Ghostcat vulnerability exploitation |
-| Golden Eye          | TryHackMe   | Medium    | Password cracking, RDP exploitation |
-| UltraTech           | TryHackMe   | Medium    | Docker based privilage escalation |
-| Injection Time      | CTFlearn    | Hard      | SQLi via `sqlmap` |
----
-
-## 🎯 Skills Covered So Far  
-
-- **Reconnaissance:** `nmap`, `gobuster`, `dirb`, `enum4linux`
-- **Exploitation:** FTP login, SQLi, command injection, SSRF, path traversal
-- **Password Attacks:** `hydra`, `john`
-- **Post-Exploitation:** Privilege escalation, sudo misconfigurations
-- **Tools:** `nmap`, `ftp`, `hydra`, `ssh`, `sudo`, `tar`, `sqlmap`, `burpsuite`
+### 📁 TryHackMe
+    - **Easy/**
+        - [Bounty_Hacker.md](TryHackMe/Easy/Bounty_Hacker.md)
+        - [Brick Heist.md](TryHackMe/Easy/Brick Heist.md)
+        - [FlipIt.md](TryHackMe/Easy/FlipIt.md)
+        - [Light.md](TryHackMe/Easy/Light.md)
+        - [Root_Me.md](TryHackMe/Easy/Root_Me.md)
+        - [tomcat_ghost.md](TryHackMe/Easy/tomcat_ghost.md)
+    - **Medium/**
+        - [Golden_Eye.md](TryHackMe/Medium/Golden_Eye.md)
+        - [UltraTech.md](TryHackMe/Medium/UltraTech.md)
 
 ---
 
-## 📌 About This Repository  
+## ✅ Completed Write-ups
+| Challenge | Platform | Difficulty | Skills | Link |
+|---|---|---|---|---|
+| CTFlearn Web Exploitation Labs – Detailed Walkthrough | CTFlearn | Hard | — | [Open](CTFlearn/Hard/InjectionTime.md) |
+| 🛡️ PicoCTF Lab Walkthrough – Image Metadata CTF | PicoCTF | Easy | — | [Open](PicoCTF/Easy/05_Image_Metadata_CTF.md) |
+| 🛡️ PicoCTF Lab Walkthrough – Inspect HTML | PicoCTF | Easy | — | [Open](PicoCTF/Easy/02_Inspect_HTML.md) |
+| 🛡️ PicoCTF Lab Walkthrough – SSTI 1 | PicoCTF | Easy | — | [Open](PicoCTF/Easy/04_SSTI_1.md) |
+| 🛡️ PicoCTF Lab Walkthrough – Tab Tab Attack | PicoCTF | Easy | — | [Open](PicoCTF/Easy/06_Tab_Tab_Attack.md) |
+| 🛡️ PicoCTF Lab Walkthrough – WebDecode | PicoCTF | Easy | — | [Open](PicoCTF/Easy/01_WebDecode.md) |
+| 🛡️ PicoCTF Lab Walkthrough – Where Are the Robots | PicoCTF | Easy | — | [Open](PicoCTF/Easy/03_Where_Are_The_Robots.md) |
+| Bricks Heist – Hack The Box (HTB) Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Brick Heist.md) |
+| Flip It!! – Hack The Box Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/FlipIt.md) |
+| Light – Hack The Box Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Light.md) |
+| Tomcat Ghost – TryHackMe Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/tomcat_ghost.md) |
+| Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Bounty_Hacker.md) |
+| Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Root_Me.md) |
+| GoldenEye – TryHackMe Walkthrough Report | TryHackMe | Medium | — | [Open](TryHackMe/Medium/Golden_Eye.md) |
+| Utech – TryHackMe VAPT Walkthrough Report | TryHackMe | Medium | — | [Open](TryHackMe/Medium/UltraTech.md) |
 
-I started my cybersecurity journey in **July 2025** and actively solve CTF challenges from:
+---
+
+## 🎯 Skills Covered So Far
+_(Will auto-populate as you add front-matter `Skills` to write-ups)_
+
+---
+
+## 📌 About This Repository
+I actively solve CTF challenges from:
 - [TryHackMe](https://tryhackme.com)
 - [PicoCTF](https://picoctf.org)
 - [CTFlearn](https://ctflearn.com)
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 
-This repository is both my **learning archive** and **portfolio** to showcase my progress.  
-Every write-up is prepared with a focus on **clarity** so that even beginners can follow along.
+This repository is both my **learning archive** and **portfolio**. Each write-up is prepared with a focus on clarity so beginners can follow along.
 
 ---
 
-## 📬 Connect with Me  
-
-- **GitHub:** [https://github.com/Nish344](https://github.com/Nish344)  
-- **LinkedIn:** [https://linkedin.com/in/nishanth-antony-b60110289](https://linkedin.com/in/nishanth-antony-b60110289)
+## 📬 Connect with Me
+- **GitHub:** https://github.com/Nish344
+- **LinkedIn:** https://linkedin.com/in/nishanth-antony-b60110289
