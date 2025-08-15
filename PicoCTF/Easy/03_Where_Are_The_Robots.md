@@ -2,9 +2,7 @@
 
 ## 📌 Challenge Info
 - **Category**: Web Exploitation
-- **Points**: Not specified
 - **Difficulty**: Easy
-- **Challenge Link**: N/A
 
 ---
 
