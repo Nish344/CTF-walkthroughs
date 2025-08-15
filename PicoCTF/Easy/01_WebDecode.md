@@ -2,9 +2,7 @@
 
 ## 📌 Challenge Info
 - **Category**: Web Exploitation
-- **Points**: Not specified
 - **Difficulty**: Easy
-- **Challenge Link**: N/A
 
 ---
 
@@ -44,12 +42,12 @@ Output:
 picoCTF{web_succ3ssfully_d3c0ded_07b91c79}
 ```
 
-🧾 Flag
+## 🧾 Flag
 picoCTF{web_succ3ssfully_d3c0ded_07b91c79}
 
-📚 Learning Outcomes
+## 📚 Learning Outcomes
 - Always inspect client-side code for hidden attributes.
 - Base64 encoding is not encryption; it can be easily decoded.
 
-🔗 References
+## 🔗 References
 Base64 Command – Linux Manual
