@@ -47,7 +47,7 @@ Each report includes:
 ## ✅ Completed Write-ups
 | Challenge | Platform | Difficulty | Skills | Link |
 |---|---|---|---|---|
-| CTFlearn Web Exploitation Labs – Detailed Walkthrough | CTFlearn | Hard | — | [Open](CTFlearn/Hard/InjectionTime.md) |
+| CTFlearn Web Exploitation Labs – Detailed Walkthrough | CTFlearn | Hard | sqlmap | [Open](CTFlearn/Hard/InjectionTime.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Image Metadata CTF | PicoCTF | Easy | — | [Open](PicoCTF/Easy/05_Image_Metadata_CTF.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Inspect HTML | PicoCTF | Easy | — | [Open](PicoCTF/Easy/02_Inspect_HTML.md) |
 | 🛡️ PicoCTF Lab Walkthrough – SSTI 1 | PicoCTF | Easy | — | [Open](PicoCTF/Easy/04_SSTI_1.md) |
@@ -67,7 +67,7 @@ Each report includes:
 ---
 
 ## 🎯 Skills Covered So Far
-_(Will auto-populate as you add `Skills` in front-matter or a `## Skills` section in write-ups.)_
+- sqlmap
 
 ---
 
