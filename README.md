@@ -36,6 +36,7 @@ Each report includes:
         - [tomcat_ghost.md](TryHackMe/Easy/tomcat_ghost.md)
     - **Medium/**
         - [Golden_Eye.md](TryHackMe/Medium/Golden_Eye.md)
+        - [RSA_breaker.md](TryHackMe/Medium/RSA_breaker.md)
         - [UltraTech.md](TryHackMe/Medium/UltraTech.md)
 
 ---
@@ -57,6 +58,7 @@ Each report includes:
 | Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Bounty_Hacker.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Root_Me.md) |
 | GoldenEye – TryHackMe Walkthrough Report | TryHackMe | Medium | — | [Open](TryHackMe/Medium/Golden_Eye.md) |
+| RSA Breaker – TryHackMe VAPT Walkthrough Report | TryHackMe | Medium | — | [Open](TryHackMe/Medium/RSA_breaker.md) |
 | Utech – TryHackMe VAPT Walkthrough Report | TryHackMe | Medium | — | [Open](TryHackMe/Medium/UltraTech.md) |
 
 ---
