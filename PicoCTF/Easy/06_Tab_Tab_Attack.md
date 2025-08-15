@@ -2,9 +2,7 @@
 
 ## 📌 Challenge Info
 - **Category**: Forensics / Web Exploitation
-- **Points**: Not specified
 - **Difficulty**: Easy
-- **Challenge Link**: N/A
 
 ---
 
@@ -45,4 +43,4 @@ picoCTF{[flag_here]}
 -Always check hidden folders.  
   
 ## 🔗 References  
-zip/unzip Manual
+[zip/unzip Manual](https://linux.die.net/man/1/unzip)
