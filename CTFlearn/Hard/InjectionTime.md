@@ -47,9 +47,12 @@ text
 - **Use security tools:** Scan for vulnerabilities before releasing your site.
 - **Monitor for weird activity:** Alerts and logs can help spot misuse early.
 
-### 6. Lessons Learned & Skills Practiced
+### 6. Lessons Learned 
 
 - How important input validation is to keep data safe.
 - How to spot, test, and exploit SQL injection.
 - Using sqlmap and understanding web parameters.
 - Documenting technical findings clearly.
+
+### Skills
+- sqlmap 
