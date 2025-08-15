@@ -14,30 +14,33 @@ Each report includes:
 
 ## 📂 Repository Structure
 ### 📁 CTFlearn
-    - **Hard/**
-        - [InjectionTime.md](CTFlearn/Hard/InjectionTime.md)
+
+- **Hard/**
+    - [InjectionTime.md](CTFlearn/Hard/InjectionTime.md)
 
 ### 📁 PicoCTF
-    - **Easy/**
-        - [01_WebDecode.md](PicoCTF/Easy/01_WebDecode.md)
-        - [02_Inspect_HTML.md](PicoCTF/Easy/02_Inspect_HTML.md)
-        - [03_Where_Are_The_Robots.md](PicoCTF/Easy/03_Where_Are_The_Robots.md)
-        - [04_SSTI_1.md](PicoCTF/Easy/04_SSTI_1.md)
-        - [05_Image_Metadata_CTF.md](PicoCTF/Easy/05_Image_Metadata_CTF.md)
-        - [06_Tab_Tab_Attack.md](PicoCTF/Easy/06_Tab_Tab_Attack.md)
+
+- **Easy/**
+    - [01_WebDecode.md](PicoCTF/Easy/01_WebDecode.md)
+    - [02_Inspect_HTML.md](PicoCTF/Easy/02_Inspect_HTML.md)
+    - [03_Where_Are_The_Robots.md](PicoCTF/Easy/03_Where_Are_The_Robots.md)
+    - [04_SSTI_1.md](PicoCTF/Easy/04_SSTI_1.md)
+    - [05_Image_Metadata_CTF.md](PicoCTF/Easy/05_Image_Metadata_CTF.md)
+    - [06_Tab_Tab_Attack.md](PicoCTF/Easy/06_Tab_Tab_Attack.md)
 
 ### 📁 TryHackMe
-    - **Easy/**
-        - [Bounty_Hacker.md](TryHackMe/Easy/Bounty_Hacker.md)
-        - [Brick Heist.md](TryHackMe/Easy/Brick Heist.md)
-        - [FlipIt.md](TryHackMe/Easy/FlipIt.md)
-        - [Light.md](TryHackMe/Easy/Light.md)
-        - [Root_Me.md](TryHackMe/Easy/Root_Me.md)
-        - [tomcat_ghost.md](TryHackMe/Easy/tomcat_ghost.md)
-    - **Medium/**
-        - [Golden_Eye.md](TryHackMe/Medium/Golden_Eye.md)
-        - [RSA_breaker.md](TryHackMe/Medium/RSA_breaker.md)
-        - [UltraTech.md](TryHackMe/Medium/UltraTech.md)
+
+- **Easy/**
+    - [Bounty_Hacker.md](TryHackMe/Easy/Bounty_Hacker.md)
+    - [Brick Heist.md](TryHackMe/Easy/Brick Heist.md)
+    - [FlipIt.md](TryHackMe/Easy/FlipIt.md)
+    - [Light.md](TryHackMe/Easy/Light.md)
+    - [Root_Me.md](TryHackMe/Easy/Root_Me.md)
+    - [tomcat_ghost.md](TryHackMe/Easy/tomcat_ghost.md)
+- **Medium/**
+    - [Golden_Eye.md](TryHackMe/Medium/Golden_Eye.md)
+    - [RSA_breaker.md](TryHackMe/Medium/RSA_breaker.md)
+    - [UltraTech.md](TryHackMe/Medium/UltraTech.md)
 
 ---
 
@@ -64,7 +67,7 @@ Each report includes:
 ---
 
 ## 🎯 Skills Covered So Far
-_(Will auto-populate as you add front-matter `Skills` to write-ups)_
+_(Will auto-populate as you add `Skills` in front-matter or a `## Skills` section in write-ups.)_
 
 ---
 
