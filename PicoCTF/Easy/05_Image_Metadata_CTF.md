@@ -2,9 +2,7 @@
 
 ## 📌 Challenge Info
 - **Category**: Forensics / Web Exploitation
-- **Points**: Not specified
 - **Difficulty**: Easy
-- **Challenge Link**: N/A
 
 ---
 
@@ -44,12 +42,12 @@ echo <encoded_string> | base64 -d
 Got flag:
 picoCTF{example_flag_here}
 
-🧾 Flag
+## 🧾 Flag
 picoCTF{example_flag_here}
 
-📚 Learning Outcomes
+## 📚 Learning Outcomes
 -EXIF metadata can leak sensitive data.
 -Always sanitize images before sharing.
 
-🔗 References
-ExifTool Documentation
+## 🔗 References
+[ExifTool Documentation](https://exiftool.org/)
