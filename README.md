@@ -29,6 +29,7 @@ Each report includes:
     - [06_Tab_Tab_Attack.md](PicoCTF/Easy/06_Tab_Tab_Attack.md)
 - **Medium/**
     - [01_SqliLite.md](PicoCTF/Medium/01_SqliLite.md)
+    - [02_Sql_direct.md](PicoCTF/Medium/02_Sql_direct.md)
 
 ### 📁 TryHackMe
 
@@ -56,6 +57,7 @@ Each report includes:
 | 🛡️ PicoCTF Lab Walkthrough – Tab Tab Attack | PicoCTF | Easy | — | [Open](PicoCTF/Easy/06_Tab_Tab_Attack.md) |
 | 🛡️ PicoCTF Lab Walkthrough – WebDecode | PicoCTF | Easy | — | [Open](PicoCTF/Easy/01_WebDecode.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Where Are the Robots | PicoCTF | Easy | — | [Open](PicoCTF/Easy/03_Where_Are_The_Robots.md) |
+| 🛡️ PicoCTF Lab Walkthrough – SQL Direct | PicoCTF | Medium | — | [Open](PicoCTF/Medium/02_Sql_direct.md) |
 | 🛡️ PicoCTF Lab Walkthrough – SQLiLite | PicoCTF | Medium | — | [Open](PicoCTF/Medium/01_SqliLite.md) |
 | Bricks Heist – Hack The Box (HTB) Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Brick_Heist.md) |
 | Flip It!! – Hack The Box Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/FlipIt.md) |
