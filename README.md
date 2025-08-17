@@ -63,7 +63,7 @@ Each report includes:
 | Bricks Heist – Hack The Box (HTB) Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Brick_Heist.md) |
 | Flip It!! – Hack The Box Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/FlipIt.md) |
 | Light – Hack The Box Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Light.md) |
-| Simple CTF – TryHackMe VAPT Walkthrough | TryHackMe | Easy | Network & Web Enumeration → `nmap`, `gobuster`, Post-Exploitation → SSH login, privilege escalation, SQL Injection Exploitation → CVE-2019-9053, hash cracking (`john`), Secure Documentation → Structured reporting with PoC evidence | [Open](TryHackMe/Easy/Simple_CTF.md) |
+| Simple CTF – TryHackMe VAPT Walkthrough | TryHackMe | Easy | SQL Injection Exploitation → CVE-2019-9053, hash cracking (`john`), Network & Web Enumeration → `nmap`, `gobuster`, Post-Exploitation → SSH login, privilege escalation, Secure Documentation → Structured reporting with PoC evidence | [Open](TryHackMe/Easy/Simple_CTF.md) |
 | Tomcat Ghost – TryHackMe Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/tomcat_ghost.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Bounty_Hacker.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Root_Me.md) |
@@ -74,11 +74,11 @@ Each report includes:
 ---
 
 ## 🎯 Skills Covered So Far
- Reconnaissance: `nmap`, `gobuster`, `dirb`, `enum4linux` 
- Exploitation: `FTP login`, `SQLi`, `command injection`, `SSRF`, `path traversal` 
- Password Attacks: `hydra`, `john` 
- Post-Exploitation: `Privilege escalation`, `sudo misconfigurations` 
- Tools: `nmap`, `ftp`, `hydra`, `ssh`, `sudo`, `tar`, `sqlmap`, `burpsuite`
+- Reconnaissance: `nmap`, `gobuster`, `dirb`, `enum4linux` 
+- Exploitation: `FTP login`, `SQLi`, `command injection`, `SSRF`, `path traversal` 
+- Password Attacks: `hydra`, `john` 
+- Post-Exploitation: `Privilege escalation`, `sudo misconfigurations` 
+- Tools: `nmap`, `ftp`, `hydra`, `ssh`, `sudo`, `tar`, `sqlmap`, `burpsuite`
 
 ---
 
