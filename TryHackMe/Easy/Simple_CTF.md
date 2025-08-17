@@ -146,7 +146,7 @@ W3ll d0n3. You made it!
 
 ---
 
-## 🎯 7. Skills Demonstrated
+**Skills Demonstrated**
 
 * Network & Web Enumeration → `nmap`, `gobuster`
 * SQL Injection Exploitation → CVE-2019-9053, hash cracking (`john`)
