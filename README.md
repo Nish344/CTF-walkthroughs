@@ -31,6 +31,7 @@ Each report includes:
     - [08_SearchSource.md](PicoCTF/Easy/08_SearchSource.md)
     - [09_RobotsSans.md](PicoCTF/Easy/09_RobotsSans.md)
     - [10_PowerCookie.md](PicoCTF/Easy/10_PowerCookie.md)
+    - [11_ForbiddenPaths.md](PicoCTF/Easy/11_ForbiddenPaths.md)
 - **Medium/**
     - [01_SqliLite.md](PicoCTF/Medium/01_SqliLite.md)
     - [02_Sql_direct.md](PicoCTF/Medium/02_Sql_direct.md)
@@ -56,6 +57,7 @@ Each report includes:
 | Challenge | Platform | Difficulty | Skills | Link |
 |---|---|---|---|---|
 | CTFlearn Web Exploitation Labs – Detailed Walkthrough | CTFlearn | Hard | sqlmap | [Open](CTFlearn/Hard/InjectionTime.md) |
+| 🛡️ PicoCTF Lab Walkthrough – Forbidden Paths | PicoCTF | Easy | — | [Open](PicoCTF/Easy/11_ForbiddenPaths.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Image Metadata CTF | PicoCTF | Easy | — | [Open](PicoCTF/Easy/05_Image_Metadata_CTF.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Inspect HTML | PicoCTF | Easy | — | [Open](PicoCTF/Easy/02_Inspect_HTML.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Power Cookie | PicoCTF | Easy | — | [Open](PicoCTF/Easy/10_PowerCookie.md) |
@@ -71,7 +73,7 @@ Each report includes:
 | Bricks Heist – Hack The Box (HTB) Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Brick_Heist.md) |
 | Flip It!! – Hack The Box Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/FlipIt.md) |
 | Light – Hack The Box Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Light.md) |
-| Simple CTF – TryHackMe VAPT Walkthrough | TryHackMe | Easy | Secure Documentation → Structured reporting with PoC evidence, Network & Web Enumeration → `nmap`, `gobuster`, SQL Injection Exploitation → CVE-2019-9053, hash cracking (`john`), Post-Exploitation → SSH login, privilege escalation | [Open](TryHackMe/Easy/Simple_CTF.md) |
+| Simple CTF – TryHackMe VAPT Walkthrough | TryHackMe | Easy | Post-Exploitation → SSH login, privilege escalation, Secure Documentation → Structured reporting with PoC evidence, SQL Injection Exploitation → CVE-2019-9053, hash cracking (`john`), Network & Web Enumeration → `nmap`, `gobuster` | [Open](TryHackMe/Easy/Simple_CTF.md) |
 | Tomcat Ghost – TryHackMe Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/tomcat_ghost.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Bounty_Hacker.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Root_Me.md) |
