@@ -28,6 +28,7 @@ Each report includes:
     - [05_Image_Metadata_CTF.md](PicoCTF/Easy/05_Image_Metadata_CTF.md)
     - [06_Tab_Tab_Attack.md](PicoCTF/Easy/06_Tab_Tab_Attack.md)
     - [07_Secrets.md](PicoCTF/Easy/07_Secrets.md)
+    - [08_SearchSource.md](PicoCTF/Easy/08_SearchSource.md)
 - **Medium/**
     - [01_SqliLite.md](PicoCTF/Medium/01_SqliLite.md)
     - [02_Sql_direct.md](PicoCTF/Medium/02_Sql_direct.md)
@@ -55,6 +56,7 @@ Each report includes:
 | CTFlearn Web Exploitation Labs – Detailed Walkthrough | CTFlearn | Hard | sqlmap | [Open](CTFlearn/Hard/InjectionTime.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Image Metadata CTF | PicoCTF | Easy | — | [Open](PicoCTF/Easy/05_Image_Metadata_CTF.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Inspect HTML | PicoCTF | Easy | — | [Open](PicoCTF/Easy/02_Inspect_HTML.md) |
+| 🛡️ PicoCTF Lab Walkthrough – Search Source | PicoCTF | Easy | — | [Open](PicoCTF/Easy/08_SearchSource.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Secrets | PicoCTF | Easy | — | [Open](PicoCTF/Easy/07_Secrets.md) |
 | 🛡️ PicoCTF Lab Walkthrough – SSTI 1 | PicoCTF | Easy | — | [Open](PicoCTF/Easy/04_SSTI_1.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Tab Tab Attack | PicoCTF | Easy | — | [Open](PicoCTF/Easy/06_Tab_Tab_Attack.md) |
@@ -65,7 +67,7 @@ Each report includes:
 | Bricks Heist – Hack The Box (HTB) Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Brick_Heist.md) |
 | Flip It!! – Hack The Box Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/FlipIt.md) |
 | Light – Hack The Box Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Light.md) |
-| Simple CTF – TryHackMe VAPT Walkthrough | TryHackMe | Easy | Network & Web Enumeration → `nmap`, `gobuster`, Post-Exploitation → SSH login, privilege escalation, SQL Injection Exploitation → CVE-2019-9053, hash cracking (`john`), Secure Documentation → Structured reporting with PoC evidence | [Open](TryHackMe/Easy/Simple_CTF.md) |
+| Simple CTF – TryHackMe VAPT Walkthrough | TryHackMe | Easy | Post-Exploitation → SSH login, privilege escalation, Network & Web Enumeration → `nmap`, `gobuster`, Secure Documentation → Structured reporting with PoC evidence, SQL Injection Exploitation → CVE-2019-9053, hash cracking (`john`) | [Open](TryHackMe/Easy/Simple_CTF.md) |
 | Tomcat Ghost – TryHackMe Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/tomcat_ghost.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Bounty_Hacker.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Root_Me.md) |
