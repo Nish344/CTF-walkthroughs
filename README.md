@@ -48,6 +48,7 @@ Each report includes:
     - [tomcat_ghost.md](TryHackMe/Easy/tomcat_ghost.md)
 - **Medium/**
     - [Golden_Eye.md](TryHackMe/Medium/Golden_Eye.md)
+    - [HA_Joker.md](TryHackMe/Medium/HA_Joker.md)
     - [RSA_breaker.md](TryHackMe/Medium/RSA_breaker.md)
     - [UltraTech.md](TryHackMe/Medium/UltraTech.md)
     - [Year_Of_The_Rabbit.md](TryHackMe/Medium/Year_Of_The_Rabbit.md)
@@ -74,11 +75,12 @@ Each report includes:
 | Bricks Heist – Hack The Box (HTB) Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Brick_Heist.md) |
 | Flip It!! – Hack The Box Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/FlipIt.md) |
 | Light – Hack The Box Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Light.md) |
-| Simple CTF – TryHackMe VAPT Walkthrough | TryHackMe | Easy | SQL Injection Exploitation → CVE-2019-9053, hash cracking (`john`), Post-Exploitation → SSH login, privilege escalation, Network & Web Enumeration → `nmap`, `gobuster`, Secure Documentation → Structured reporting with PoC evidence | [Open](TryHackMe/Easy/Simple_CTF.md) |
+| Simple CTF – TryHackMe VAPT Walkthrough | TryHackMe | Easy | SQL Injection Exploitation → CVE-2019-9053, hash cracking (`john`), Network & Web Enumeration → `nmap`, `gobuster`, Post-Exploitation → SSH login, privilege escalation, Secure Documentation → Structured reporting with PoC evidence | [Open](TryHackMe/Easy/Simple_CTF.md) |
 | Tomcat Ghost – TryHackMe Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/tomcat_ghost.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Bounty_Hacker.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Root_Me.md) |
 | GoldenEye – TryHackMe Walkthrough Report | TryHackMe | Medium | — | [Open](TryHackMe/Medium/Golden_Eye.md) |
+| HA Joker - VAPT Walkthrough Report | TryHackMe | Medium | — | [Open](TryHackMe/Medium/HA_Joker.md) |
 | RSA Breaker – TryHackMe VAPT Walkthrough Report | TryHackMe | Medium | — | [Open](TryHackMe/Medium/RSA_breaker.md) |
 | Utech – TryHackMe VAPT Walkthrough Report | TryHackMe | Medium | — | [Open](TryHackMe/Medium/UltraTech.md) |
 | Year of the Rabbit – TryHackMe VAPT Walkthrough Report | TryHackMe | Medium | — | [Open](TryHackMe/Medium/Year_Of_The_Rabbit.md) |
