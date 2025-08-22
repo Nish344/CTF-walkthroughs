@@ -32,6 +32,8 @@ Each report includes:
     - [09_RobotsSans.md](PicoCTF/Easy/09_RobotsSans.md)
     - [10_PowerCookie.md](PicoCTF/Easy/10_PowerCookie.md)
     - [11_ForbiddenPaths.md](PicoCTF/Easy/11_ForbiddenPaths.md)
+- **Hard/**
+    - [Notepad.md](PicoCTF/Hard/Notepad.md)
 - **Medium/**
     - [01_SqliLite.md](PicoCTF/Medium/01_SqliLite.md)
     - [02_Sql_direct.md](PicoCTF/Medium/02_Sql_direct.md)
@@ -75,12 +77,13 @@ Each report includes:
 | 🛡️ PicoCTF Lab Walkthrough – Where Are the Robots | PicoCTF | Easy | — | [Open](PicoCTF/Easy/03_Where_Are_The_Robots.md) |
 | 🛡️ PicoCTF Lab Walkthrough – SQL Direct | PicoCTF | Medium | — | [Open](PicoCTF/Medium/02_Sql_direct.md) |
 | 🛡️ PicoCTF Lab Walkthrough – SQLiLite | PicoCTF | Medium | — | [Open](PicoCTF/Medium/01_SqliLite.md) |
+| PicoCTF Hard Challenge – Notepad Vulnerability Assessment and Penetration Testing (VAPT) Report | PicoCTF | Hard | — | [Open](PicoCTF/Hard/Notepad.md) |
 | **Vulnerability Assessment and Penetration Testing (VAPT) Report – Agent Sudo** | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Agent_Sudo.md) |
 | **Vulnerability Assessment and Penetration Testing (VAPT) Report – Basic Pentesting Machine** | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Basic_Pentesting.md) |
 | Bricks Heist – Hack The Box (HTB) Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Brick_Heist.md) |
 | Flip It!! – Hack The Box Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/FlipIt.md) |
 | Light – Hack The Box Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Light.md) |
-| Simple CTF – TryHackMe VAPT Walkthrough | TryHackMe | Easy | Network & Web Enumeration → `nmap`, `gobuster`, SQL Injection Exploitation → CVE-2019-9053, hash cracking (`john`), Secure Documentation → Structured reporting with PoC evidence, Post-Exploitation → SSH login, privilege escalation | [Open](TryHackMe/Easy/Simple_CTF.md) |
+| Simple CTF – TryHackMe VAPT Walkthrough | TryHackMe | Easy | Secure Documentation → Structured reporting with PoC evidence, Post-Exploitation → SSH login, privilege escalation, SQL Injection Exploitation → CVE-2019-9053, hash cracking (`john`), Network & Web Enumeration → `nmap`, `gobuster` | [Open](TryHackMe/Easy/Simple_CTF.md) |
 | Tomcat Ghost – TryHackMe Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/tomcat_ghost.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Bounty_Hacker.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Root_Me.md) |
