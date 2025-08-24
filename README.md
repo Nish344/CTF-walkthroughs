@@ -15,6 +15,8 @@ Each report includes:
 ## 📂 Repository Structure
 ### 📁 CTFlearn
 
+- **Easy/**
+    - [Noxtal.md](CTFlearn/Easy/Noxtal.md)
 - **Hard/**
     - [InjectionTime.md](CTFlearn/Hard/InjectionTime.md)
 
@@ -63,6 +65,7 @@ Each report includes:
 ## ✅ Completed Write-ups
 | Challenge | Platform | Difficulty | Skills | Link |
 |---|---|---|---|---|
+| Vulnerability Assessment and Penetration Testing (VAPT) Report – Noxtal | CTFlearn | Easy | — | [Open](CTFlearn/Easy/Noxtal.md) |
 | CTFlearn Web Exploitation Labs – Detailed Walkthrough | CTFlearn | Hard | sqlmap | [Open](CTFlearn/Hard/InjectionTime.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Forbidden Paths | PicoCTF | Easy | — | [Open](PicoCTF/Easy/11_ForbiddenPaths.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Image Metadata CTF | PicoCTF | Easy | — | [Open](PicoCTF/Easy/05_Image_Metadata_CTF.md) |
@@ -83,7 +86,7 @@ Each report includes:
 | Bricks Heist – Hack The Box (HTB) Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Brick_Heist.md) |
 | Flip It!! – Hack The Box Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/FlipIt.md) |
 | Light – Hack The Box Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Light.md) |
-| Simple CTF – TryHackMe VAPT Walkthrough | TryHackMe | Easy | Secure Documentation → Structured reporting with PoC evidence, Post-Exploitation → SSH login, privilege escalation, SQL Injection Exploitation → CVE-2019-9053, hash cracking (`john`), Network & Web Enumeration → `nmap`, `gobuster` | [Open](TryHackMe/Easy/Simple_CTF.md) |
+| Simple CTF – TryHackMe VAPT Walkthrough | TryHackMe | Easy | Secure Documentation → Structured reporting with PoC evidence, Network & Web Enumeration → `nmap`, `gobuster`, Post-Exploitation → SSH login, privilege escalation, SQL Injection Exploitation → CVE-2019-9053, hash cracking (`john`) | [Open](TryHackMe/Easy/Simple_CTF.md) |
 | Tomcat Ghost – TryHackMe Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/tomcat_ghost.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Bounty_Hacker.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Root_Me.md) |
