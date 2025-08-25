@@ -53,6 +53,7 @@ Each report includes:
     - [Brick_Heist.md](TryHackMe/Easy/Brick_Heist.md)
     - [FlipIt.md](TryHackMe/Easy/FlipIt.md)
     - [Light.md](TryHackMe/Easy/Light.md)
+    - [Overlay_fs.md](TryHackMe/Easy/Overlay_fs.md)
     - [Root_Me.md](TryHackMe/Easy/Root_Me.md)
     - [Simple_CTF.md](TryHackMe/Easy/Simple_CTF.md)
     - [tomcat_ghost.md](TryHackMe/Easy/tomcat_ghost.md)
@@ -91,11 +92,12 @@ Each report includes:
 | Bricks Heist – Hack The Box (HTB) Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Brick_Heist.md) |
 | Flip It!! – Hack The Box Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/FlipIt.md) |
 | Light – Hack The Box Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Light.md) |
-| Simple CTF – TryHackMe VAPT Walkthrough | TryHackMe | Easy | Post-Exploitation → SSH login, privilege escalation, Secure Documentation → Structured reporting with PoC evidence, Network & Web Enumeration → `nmap`, `gobuster`, SQL Injection Exploitation → CVE-2019-9053, hash cracking (`john`) | [Open](TryHackMe/Easy/Simple_CTF.md) |
+| Simple CTF – TryHackMe VAPT Walkthrough | TryHackMe | Easy | Network & Web Enumeration → `nmap`, `gobuster`, Secure Documentation → Structured reporting with PoC evidence, Post-Exploitation → SSH login, privilege escalation, SQL Injection Exploitation → CVE-2019-9053, hash cracking (`john`) | [Open](TryHackMe/Easy/Simple_CTF.md) |
 | Tomcat Ghost – TryHackMe Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/tomcat_ghost.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Bounty_Hacker.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Root_Me.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – BreakIt | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Break_It.md) |
+| Vulnerability Assessment and Penetration Testing (VAPT) Report – OverlayFS Exploit Lab | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Overlay_fs.md) |
 | GoldenEye – TryHackMe Walkthrough Report | TryHackMe | Medium | — | [Open](TryHackMe/Medium/Golden_Eye.md) |
 | HA Joker - VAPT Walkthrough Report | TryHackMe | Medium | — | [Open](TryHackMe/Medium/HA_Joker.md) |
 | RSA Breaker – TryHackMe VAPT Walkthrough Report | TryHackMe | Medium | — | [Open](TryHackMe/Medium/RSA_breaker.md) |
