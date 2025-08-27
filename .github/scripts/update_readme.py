@@ -228,11 +228,10 @@ def build_table(entries: list) -> str:
     if not entries_sorted:
         return "_No write-ups found yet._"
 
-    head = "| Challenge | Platform | Difficulty | Skills | Link |\n|---|---|---|---|---|"
+    head = "| Challenge | Platform | Difficulty | Link |\n|---|---|---|---|"
     rows = []
     for e in entries_sorted:
-        skills = ", ".join(e["skills"]) if e["skills"] else "—"
-        rows.append(f"| {e['challenge']} | {e['platform']} | {e['difficulty']} | {skills} | [Open]({e['relpath']}) |")
+        rows.append(f"| {e['challenge']} | {e['platform']} | {e['difficulty']} | [Open]({e['relpath']}) |")
     return "\n".join([head] + rows)
 
 
