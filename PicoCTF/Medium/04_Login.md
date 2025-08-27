@@ -1,4 +1,4 @@
-# 🔑 PicoCTF Lab Walkthrough – Login
+# 🛡️ PicoCTF Lab Walkthrough – Login
 
 ## 📌 Challenge Info
 
