@@ -1,4 +1,4 @@
-# 🍪 PicoCTF Lab Walkthrough – Most Cookies
+# 🛡️ PicoCTF Lab Walkthrough – Most Cookies
 
 ## 📌 Challenge Info
 
