@@ -52,6 +52,7 @@ Each report includes:
     - [Break_It.md](TryHackMe/Easy/Break_It.md)
     - [Brick_Heist.md](TryHackMe/Easy/Brick_Heist.md)
     - [FlipIt.md](TryHackMe/Easy/FlipIt.md)
+    - [Lazy_Admin.md](TryHackMe/Easy/Lazy_Admin.md)
     - [Light.md](TryHackMe/Easy/Light.md)
     - [Overlay_fs.md](TryHackMe/Easy/Overlay_fs.md)
     - [Root_Me.md](TryHackMe/Easy/Root_Me.md)
@@ -91,8 +92,9 @@ Each report includes:
 | **Vulnerability Assessment and Penetration Testing (VAPT) Report – Basic Pentesting Machine** | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Basic_Pentesting.md) |
 | Bricks Heist – Hack The Box (HTB) Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Brick_Heist.md) |
 | Flip It!! – Hack The Box Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/FlipIt.md) |
+| Lazy Admin – TryHackMe VAPT Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Lazy_Admin.md) |
 | Light – Hack The Box Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Light.md) |
-| Simple CTF – TryHackMe VAPT Walkthrough | TryHackMe | Easy | Network & Web Enumeration → `nmap`, `gobuster`, Secure Documentation → Structured reporting with PoC evidence, Post-Exploitation → SSH login, privilege escalation, SQL Injection Exploitation → CVE-2019-9053, hash cracking (`john`) | [Open](TryHackMe/Easy/Simple_CTF.md) |
+| Simple CTF – TryHackMe VAPT Walkthrough | TryHackMe | Easy | Network & Web Enumeration → `nmap`, `gobuster`, Post-Exploitation → SSH login, privilege escalation, Secure Documentation → Structured reporting with PoC evidence, SQL Injection Exploitation → CVE-2019-9053, hash cracking (`john`) | [Open](TryHackMe/Easy/Simple_CTF.md) |
 | Tomcat Ghost – TryHackMe Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/tomcat_ghost.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Bounty_Hacker.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Root_Me.md) |
