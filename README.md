@@ -44,6 +44,7 @@ Each report includes:
     - [01_SqliLite.md](PicoCTF/Medium/01_SqliLite.md)
     - [02_Sql_direct.md](PicoCTF/Medium/02_Sql_direct.md)
     - [03_Most_Cookies.md](PicoCTF/Medium/03_Most_Cookies.md)
+    - [04_Login.md](PicoCTF/Medium/04_Login.md)
 
 ### 📁 TryHackMe
 
@@ -89,6 +90,7 @@ Each report includes:
 | 🛡️ PicoCTF Lab Walkthrough – WebDecode | PicoCTF | Easy | — | [Open](PicoCTF/Easy/01_WebDecode.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Where Are the Robots | PicoCTF | Easy | — | [Open](PicoCTF/Easy/03_Where_Are_The_Robots.md) |
 | 🍪 PicoCTF Lab Walkthrough – Most Cookies | PicoCTF | Medium | — | [Open](PicoCTF/Medium/03_Most_Cookies.md) |
+| 🔑 PicoCTF Lab Walkthrough – Login | PicoCTF | Medium | — | [Open](PicoCTF/Medium/04_Login.md) |
 | 🛡️ PicoCTF Lab Walkthrough – SQL Direct | PicoCTF | Medium | — | [Open](PicoCTF/Medium/02_Sql_direct.md) |
 | 🛡️ PicoCTF Lab Walkthrough – SQLiLite | PicoCTF | Medium | — | [Open](PicoCTF/Medium/01_SqliLite.md) |
 | PicoCTF Hard Challenge – Notepad Vulnerability Assessment and Penetration Testing (VAPT) Report | PicoCTF | Hard | — | [Open](PicoCTF/Hard/Notepad.md) |
@@ -98,10 +100,10 @@ Each report includes:
 | Flip It!! – Hack The Box Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/FlipIt.md) |
 | Lazy Admin – TryHackMe VAPT Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Lazy_Admin.md) |
 | Light – Hack The Box Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Light.md) |
-| Simple CTF – TryHackMe VAPT Walkthrough | TryHackMe | Easy | SQL Injection Exploitation → CVE-2019-9053, hash cracking (`john`), Post-Exploitation → SSH login, privilege escalation, Secure Documentation → Structured reporting with PoC evidence, Network & Web Enumeration → `nmap`, `gobuster` | [Open](TryHackMe/Easy/Simple_CTF.md) |
+| Simple CTF – TryHackMe VAPT Walkthrough | TryHackMe | Easy | SQL Injection Exploitation → CVE-2019-9053, hash cracking (`john`), Network & Web Enumeration → `nmap`, `gobuster`, Secure Documentation → Structured reporting with PoC evidence, Post-Exploitation → SSH login, privilege escalation | [Open](TryHackMe/Easy/Simple_CTF.md) |
 | Tomcat Ghost – TryHackMe Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/tomcat_ghost.md) |
-| Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Bounty_Hacker.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Root_Me.md) |
+| Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Bounty_Hacker.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – BreakIt | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Break_It.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – OverlayFS Exploit Lab | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Overlay_fs.md) |
 | GoldenEye – TryHackMe Walkthrough Report | TryHackMe | Medium | — | [Open](TryHackMe/Medium/Golden_Eye.md) |
