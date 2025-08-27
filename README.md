@@ -71,46 +71,46 @@ Each report includes:
 ---
 
 ## ✅ Completed Write-ups
-| Challenge | Platform | Difficulty | Skills | Link |
-|---|---|---|---|---|
-| Vulnerability Assessment and Penetration Testing (VAPT) Report – Noxtal | CTFlearn | Easy | — | [Open](CTFlearn/Easy/Noxtal.md) |
-| Vulnerability Assessment and Penetration Testing (VAPT) Report – HTTP Header Manipulation | CTFlearn | Medium | — | [Open](CTFlearn/Medium/HTTP_Header_Manipulation.md) |
-| Vulnerability Assessment and Penetration Testing (VAPT) Report – HTTP Request Manipulation | CTFlearn | Medium | — | [Open](CTFlearn/Medium/HTTP_Request_Manipulation.md) |
-| CTFlearn Web Exploitation Labs – Detailed Walkthrough | CTFlearn | Hard | sqlmap | [Open](CTFlearn/Hard/InjectionTime.md) |
-| PicoCTF Lab Walkthrough – Caas | PicoCTF | Easy | — | [Open](PicoCTF/Easy/12_Caas.md) |
-| 🛡️ PicoCTF Lab Walkthrough – Forbidden Paths | PicoCTF | Easy | — | [Open](PicoCTF/Easy/11_ForbiddenPaths.md) |
-| 🛡️ PicoCTF Lab Walkthrough – Image Metadata CTF | PicoCTF | Easy | — | [Open](PicoCTF/Easy/05_Image_Metadata_CTF.md) |
-| 🛡️ PicoCTF Lab Walkthrough – Inspect HTML | PicoCTF | Easy | — | [Open](PicoCTF/Easy/02_Inspect_HTML.md) |
-| 🛡️ PicoCTF Lab Walkthrough – Power Cookie | PicoCTF | Easy | — | [Open](PicoCTF/Easy/10_PowerCookie.md) |
-| 🛡️ PicoCTF Lab Walkthrough – Robots Sans | PicoCTF | Easy | — | [Open](PicoCTF/Easy/09_RobotsSans.md) |
-| 🛡️ PicoCTF Lab Walkthrough – Search Source | PicoCTF | Easy | — | [Open](PicoCTF/Easy/08_SearchSource.md) |
-| 🛡️ PicoCTF Lab Walkthrough – Secrets | PicoCTF | Easy | — | [Open](PicoCTF/Easy/07_Secrets.md) |
-| 🛡️ PicoCTF Lab Walkthrough – SSTI 1 | PicoCTF | Easy | — | [Open](PicoCTF/Easy/04_SSTI_1.md) |
-| 🛡️ PicoCTF Lab Walkthrough – Tab Tab Attack | PicoCTF | Easy | — | [Open](PicoCTF/Easy/06_Tab_Tab_Attack.md) |
-| 🛡️ PicoCTF Lab Walkthrough – WebDecode | PicoCTF | Easy | — | [Open](PicoCTF/Easy/01_WebDecode.md) |
-| 🛡️ PicoCTF Lab Walkthrough – Where Are the Robots | PicoCTF | Easy | — | [Open](PicoCTF/Easy/03_Where_Are_The_Robots.md) |
-| 🍪 PicoCTF Lab Walkthrough – Most Cookies | PicoCTF | Medium | — | [Open](PicoCTF/Medium/03_Most_Cookies.md) |
-| 🔑 PicoCTF Lab Walkthrough – Login | PicoCTF | Medium | — | [Open](PicoCTF/Medium/04_Login.md) |
-| 🛡️ PicoCTF Lab Walkthrough – SQL Direct | PicoCTF | Medium | — | [Open](PicoCTF/Medium/02_Sql_direct.md) |
-| 🛡️ PicoCTF Lab Walkthrough – SQLiLite | PicoCTF | Medium | — | [Open](PicoCTF/Medium/01_SqliLite.md) |
-| PicoCTF Hard Challenge – Notepad Vulnerability Assessment and Penetration Testing (VAPT) Report | PicoCTF | Hard | — | [Open](PicoCTF/Hard/Notepad.md) |
-| **Vulnerability Assessment and Penetration Testing (VAPT) Report – Agent Sudo** | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Agent_Sudo.md) |
-| **Vulnerability Assessment and Penetration Testing (VAPT) Report – Basic Pentesting Machine** | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Basic_Pentesting.md) |
-| Bricks Heist – Hack The Box (HTB) Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Brick_Heist.md) |
-| Flip It!! – Hack The Box Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/FlipIt.md) |
-| Lazy Admin – TryHackMe VAPT Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Lazy_Admin.md) |
-| Light – Hack The Box Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Light.md) |
-| Simple CTF – TryHackMe VAPT Walkthrough | TryHackMe | Easy | SQL Injection Exploitation → CVE-2019-9053, hash cracking (`john`), Network & Web Enumeration → `nmap`, `gobuster`, Secure Documentation → Structured reporting with PoC evidence, Post-Exploitation → SSH login, privilege escalation | [Open](TryHackMe/Easy/Simple_CTF.md) |
-| Tomcat Ghost – TryHackMe Walkthrough Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/tomcat_ghost.md) |
-| Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Root_Me.md) |
-| Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Bounty_Hacker.md) |
-| Vulnerability Assessment and Penetration Testing (VAPT) Report – BreakIt | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Break_It.md) |
-| Vulnerability Assessment and Penetration Testing (VAPT) Report – OverlayFS Exploit Lab | TryHackMe | Easy | — | [Open](TryHackMe/Easy/Overlay_fs.md) |
-| GoldenEye – TryHackMe Walkthrough Report | TryHackMe | Medium | — | [Open](TryHackMe/Medium/Golden_Eye.md) |
-| HA Joker - VAPT Walkthrough Report | TryHackMe | Medium | — | [Open](TryHackMe/Medium/HA_Joker.md) |
-| RSA Breaker – TryHackMe VAPT Walkthrough Report | TryHackMe | Medium | — | [Open](TryHackMe/Medium/RSA_breaker.md) |
-| Utech – TryHackMe VAPT Walkthrough Report | TryHackMe | Medium | — | [Open](TryHackMe/Medium/UltraTech.md) |
-| Year of the Rabbit – TryHackMe VAPT Walkthrough Report | TryHackMe | Medium | — | [Open](TryHackMe/Medium/Year_Of_The_Rabbit.md) |
+| Challenge | Platform | Difficulty | Link |
+|---|---|---|---|
+| Vulnerability Assessment and Penetration Testing (VAPT) Report – Noxtal | CTFlearn | Easy | [Open](CTFlearn/Easy/Noxtal.md) |
+| Vulnerability Assessment and Penetration Testing (VAPT) Report – HTTP Header Manipulation | CTFlearn | Medium | [Open](CTFlearn/Medium/HTTP_Header_Manipulation.md) |
+| Vulnerability Assessment and Penetration Testing (VAPT) Report – HTTP Request Manipulation | CTFlearn | Medium | [Open](CTFlearn/Medium/HTTP_Request_Manipulation.md) |
+| CTFlearn Web Exploitation Labs – Detailed Walkthrough | CTFlearn | Hard | [Open](CTFlearn/Hard/InjectionTime.md) |
+| PicoCTF Lab Walkthrough – Caas | PicoCTF | Easy | [Open](PicoCTF/Easy/12_Caas.md) |
+| 🛡️ PicoCTF Lab Walkthrough – Forbidden Paths | PicoCTF | Easy | [Open](PicoCTF/Easy/11_ForbiddenPaths.md) |
+| 🛡️ PicoCTF Lab Walkthrough – Image Metadata CTF | PicoCTF | Easy | [Open](PicoCTF/Easy/05_Image_Metadata_CTF.md) |
+| 🛡️ PicoCTF Lab Walkthrough – Inspect HTML | PicoCTF | Easy | [Open](PicoCTF/Easy/02_Inspect_HTML.md) |
+| 🛡️ PicoCTF Lab Walkthrough – Power Cookie | PicoCTF | Easy | [Open](PicoCTF/Easy/10_PowerCookie.md) |
+| 🛡️ PicoCTF Lab Walkthrough – Robots Sans | PicoCTF | Easy | [Open](PicoCTF/Easy/09_RobotsSans.md) |
+| 🛡️ PicoCTF Lab Walkthrough – Search Source | PicoCTF | Easy | [Open](PicoCTF/Easy/08_SearchSource.md) |
+| 🛡️ PicoCTF Lab Walkthrough – Secrets | PicoCTF | Easy | [Open](PicoCTF/Easy/07_Secrets.md) |
+| 🛡️ PicoCTF Lab Walkthrough – SSTI 1 | PicoCTF | Easy | [Open](PicoCTF/Easy/04_SSTI_1.md) |
+| 🛡️ PicoCTF Lab Walkthrough – Tab Tab Attack | PicoCTF | Easy | [Open](PicoCTF/Easy/06_Tab_Tab_Attack.md) |
+| 🛡️ PicoCTF Lab Walkthrough – WebDecode | PicoCTF | Easy | [Open](PicoCTF/Easy/01_WebDecode.md) |
+| 🛡️ PicoCTF Lab Walkthrough – Where Are the Robots | PicoCTF | Easy | [Open](PicoCTF/Easy/03_Where_Are_The_Robots.md) |
+| 🍪 PicoCTF Lab Walkthrough – Most Cookies | PicoCTF | Medium | [Open](PicoCTF/Medium/03_Most_Cookies.md) |
+| 🔑 PicoCTF Lab Walkthrough – Login | PicoCTF | Medium | [Open](PicoCTF/Medium/04_Login.md) |
+| 🛡️ PicoCTF Lab Walkthrough – SQL Direct | PicoCTF | Medium | [Open](PicoCTF/Medium/02_Sql_direct.md) |
+| 🛡️ PicoCTF Lab Walkthrough – SQLiLite | PicoCTF | Medium | [Open](PicoCTF/Medium/01_SqliLite.md) |
+| PicoCTF Hard Challenge – Notepad Vulnerability Assessment and Penetration Testing (VAPT) Report | PicoCTF | Hard | [Open](PicoCTF/Hard/Notepad.md) |
+| **Vulnerability Assessment and Penetration Testing (VAPT) Report – Agent Sudo** | TryHackMe | Easy | [Open](TryHackMe/Easy/Agent_Sudo.md) |
+| **Vulnerability Assessment and Penetration Testing (VAPT) Report – Basic Pentesting Machine** | TryHackMe | Easy | [Open](TryHackMe/Easy/Basic_Pentesting.md) |
+| Bricks Heist – Hack The Box (HTB) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Brick_Heist.md) |
+| Flip It!! – Hack The Box Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/FlipIt.md) |
+| Lazy Admin – TryHackMe VAPT Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Lazy_Admin.md) |
+| Light – Hack The Box Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Light.md) |
+| Simple CTF – TryHackMe VAPT Walkthrough | TryHackMe | Easy | [Open](TryHackMe/Easy/Simple_CTF.md) |
+| Tomcat Ghost – TryHackMe Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/tomcat_ghost.md) |
+| Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Bounty_Hacker.md) |
+| Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Root_Me.md) |
+| Vulnerability Assessment and Penetration Testing (VAPT) Report – BreakIt | TryHackMe | Easy | [Open](TryHackMe/Easy/Break_It.md) |
+| Vulnerability Assessment and Penetration Testing (VAPT) Report – OverlayFS Exploit Lab | TryHackMe | Easy | [Open](TryHackMe/Easy/Overlay_fs.md) |
+| GoldenEye – TryHackMe Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/Golden_Eye.md) |
+| HA Joker - VAPT Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/HA_Joker.md) |
+| RSA Breaker – TryHackMe VAPT Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/RSA_breaker.md) |
+| Utech – TryHackMe VAPT Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/UltraTech.md) |
+| Year of the Rabbit – TryHackMe VAPT Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/Year_Of_The_Rabbit.md) |
 
 ---
 
