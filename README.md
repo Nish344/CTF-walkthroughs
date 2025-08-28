@@ -121,7 +121,7 @@ Each report includes:
 - Exploitation: `FTP login`, `SQLi`, `command injection`, `SSRF`, `path traversal` 
 - Password Attacks: `hydra`, `john` 
 - Post-Exploitation: `Privilege escalation`, `sudo misconfigurations` 
-- Tools: `nmap`, `ftp`, `hydra`, `ssh`, `sudo`, `tar`, `sqlmap`, `burpsuite`
+- Tools: `nmap`, `ftp`, `hydra`, `ssh`, `sudo`, `tar`, `sqlmap`, `burpsuite`,`steghide`
 
 ---
 
