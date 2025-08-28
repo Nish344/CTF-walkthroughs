@@ -56,6 +56,7 @@ Each report includes:
     - [Brick_Heist.md](TryHackMe/Easy/Brick_Heist.md)
     - [FlipIt.md](TryHackMe/Easy/FlipIt.md)
     - [Lazy_Admin.md](TryHackMe/Easy/Lazy_Admin.md)
+    - [Lian_Yu.md](TryHackMe/Easy/Lian_Yu.md)
     - [Light.md](TryHackMe/Easy/Light.md)
     - [Overlay_fs.md](TryHackMe/Easy/Overlay_fs.md)
     - [Root_Me.md](TryHackMe/Easy/Root_Me.md)
@@ -102,9 +103,10 @@ Each report includes:
 | Light – Hack The Box Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Light.md) |
 | Simple CTF – TryHackMe VAPT Walkthrough | TryHackMe | Easy | [Open](TryHackMe/Easy/Simple_CTF.md) |
 | Tomcat Ghost – TryHackMe Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/tomcat_ghost.md) |
-| Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Bounty_Hacker.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Root_Me.md) |
+| Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Bounty_Hacker.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – BreakIt | TryHackMe | Easy | [Open](TryHackMe/Easy/Break_It.md) |
+| Vulnerability Assessment and Penetration Testing (VAPT) Report – LianYu | TryHackMe | Easy | [Open](TryHackMe/Easy/Lian_Yu.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – OverlayFS Exploit Lab | TryHackMe | Easy | [Open](TryHackMe/Easy/Overlay_fs.md) |
 | GoldenEye – TryHackMe Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/Golden_Eye.md) |
 | HA Joker - VAPT Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/HA_Joker.md) |
