@@ -54,6 +54,7 @@ Each report includes:
     - [Bounty_Hacker.md](TryHackMe/Easy/Bounty_Hacker.md)
     - [Break_It.md](TryHackMe/Easy/Break_It.md)
     - [Brick_Heist.md](TryHackMe/Easy/Brick_Heist.md)
+    - [cyborg.md](TryHackMe/Easy/cyborg.md)
     - [FlipIt.md](TryHackMe/Easy/FlipIt.md)
     - [Lazy_Admin.md](TryHackMe/Easy/Lazy_Admin.md)
     - [Lian_Yu.md](TryHackMe/Easy/Lian_Yu.md)
@@ -106,6 +107,7 @@ Each report includes:
 | Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Root_Me.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Bounty_Hacker.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – BreakIt | TryHackMe | Easy | [Open](TryHackMe/Easy/Break_It.md) |
+| Vulnerability Assessment and Penetration Testing (VAPT) Report – Cyborg | TryHackMe | Easy | [Open](TryHackMe/Easy/cyborg.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – LianYu | TryHackMe | Easy | [Open](TryHackMe/Easy/Lian_Yu.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – OverlayFS Exploit Lab | TryHackMe | Easy | [Open](TryHackMe/Easy/Overlay_fs.md) |
 | GoldenEye – TryHackMe Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/Golden_Eye.md) |
