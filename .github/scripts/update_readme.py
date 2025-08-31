@@ -1,10 +1,15 @@
 #!/usr/bin/env python3
 import os
 import re
+import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
+import seaborn as sns
+import pandas as pd
 from pathlib import Path
-from collections import defaultdict
+from collections import defaultdict, Counter
+from datetime import datetime
 
-# ---------------- SETTINGS (edit if you want) ----------------
+# ---------------- SETTINGS ----------------
 REPO_TITLE = "🛡️ Cybersecurity Lab Reports & CTF Write-ups"
 REPO_BLURB = (
     "Welcome to my collection of **Vulnerability Assessment and Penetration Testing (VAPT) reports** "
@@ -15,18 +20,13 @@ REPO_BLURB = (
 CONNECT_GITHUB = "https://github.com/Nish344"
 CONNECT_LINKEDIN = "https://linkedin.com/in/nishanth-antony-b60110289"
 
-# Top-level folders to include; leave empty to auto-detect
-INCLUDE_TOP_LEVEL = []  # e.g. ["TryHackMe", "PicoCTF", "CTFlearn"]
-
-# Ignore sets
+INCLUDE_TOP_LEVEL = []
 IGNORE_DIRS = {".git", ".github", ".vscode", "__pycache__", "assets", "images", "img"}
 IGNORE_FILES = {"README.md"}
 
-# Difficulty ordering for table sort
 DIFFICULTY_ORDER = {"Easy": 0, "Medium": 1, "Hard": 2}
 # -------------------------------------------------------------
 
-# Optional dependency: PyYAML (the Action installs it). We degrade gracefully if missing.
 try:
     import yaml
 except Exception:
@@ -41,10 +41,6 @@ def read_text(path: Path) -> str:
 
 
 def parse_front_matter(text: str):
-    """
-    Extract YAML front matter (--- ... ---) at the beginning of a file.
-    Returns (data_dict, body_without_fm).
-    """
     m = re.match(r"^\s*---\s*\n(.*?)\n---\s*\n?", text, flags=re.DOTALL)
     if not m:
         return {}, text
@@ -57,7 +53,6 @@ def parse_front_matter(text: str):
         except Exception:
             data = {}
     else:
-        # Fallback parser: "Key: Value" lines only
         for line in fm_block.splitlines():
             if ":" in line:
                 k, v = line.split(":", 1)
@@ -65,7 +60,7 @@ def parse_front_matter(text: str):
     return data, rest
 
 
-def first_h1(text: str) -> str | None:
+def first_h1(text: str):
     for line in text.splitlines():
         if line.lstrip().startswith("# "):
             return line.lstrip()[2:].strip()
@@ -88,28 +83,16 @@ def guess_platform_and_difficulty(relpath: Path):
 
 
 def extract_skills_from_body(body: str):
-    """
-    Heuristic: look for a section header containing 'Skills' and collect bullet points until the next header.
-    Supports headings like:
-      ## Skills
-      ## Skills Covered
-      ## Skills Demonstrated
-    Bullets recognized: -, *, •
-    """
     skills = set()
-    # Find a 'skills' heading
     heading = re.search(r"(?im)^(#{2,6})\s*skills(?:\s*(?:covered|demonstrated)?)?\s*$", body)
     if not heading:
-        # Also support bold label style: **Skills Demonstrated:** on its own line
-        heading = re.search(r"(?im)^\*\*skills(?:\s*(?:covered|demonstrated)?)?\*\*\s*:?\s*$", body)
+        heading = re.search(r"(?im)^\*\*skills(?:\s*(?:covered|demonstrated)?)?\*\*\s*: ?\s*$", body)
     if not heading:
         return []
-
     start = heading.end()
-    # Slice lines after heading
     tail = body[start:]
     for line in tail.splitlines():
-        if re.match(r"^\s*#{1,6}\s+", line):  # next heading reached
+        if re.match(r"^\s*#{1,6}\s+", line):
             break
         m = re.match(r"^\s*[-*•]\s+(.*\S)\s*$", line)
         if m:
@@ -118,9 +101,6 @@ def extract_skills_from_body(body: str):
 
 
 def should_include_dir(dir_path: Path) -> bool:
-    """
-    Include this directory if it (recursively) contains at least one .md (excluding README.md).
-    """
     for p in dir_path.rglob("*.md"):
         if p.name not in IGNORE_FILES:
             return True
@@ -128,12 +108,6 @@ def should_include_dir(dir_path: Path) -> bool:
 
 
 def collect_entries_and_tree(repo_root: Path):
-    """
-    Scans repo for markdown write-ups and builds:
-      - entries: list of write-ups with metadata for the table & skills
-      - tree: nested dict structure for rendering the repo structure
-    """
-    # Determine top-level platforms
     if INCLUDE_TOP_LEVEL:
         top_dirs = [repo_root / d for d in INCLUDE_TOP_LEVEL if (repo_root / d).is_dir()]
     else:
@@ -142,7 +116,6 @@ def collect_entries_and_tree(repo_root: Path):
             if p.is_dir() and p.name not in IGNORE_DIRS and should_include_dir(p)
         ]
 
-    # Build nested tree: { platform_name: node }, where node = {"_files":[(name, relpath)], "_dirs":{subdir: node}}
     def build_node(dir_path: Path):
         node = {"_files": [], "_dirs": {}}
         for child in sorted(dir_path.iterdir(), key=lambda x: (not x.is_dir(), x.name.lower())):
@@ -160,7 +133,6 @@ def collect_entries_and_tree(repo_root: Path):
     for top in sorted(top_dirs, key=lambda p: p.name.lower()):
         tree[top.name] = build_node(top)
 
-    # Collect entries for table & skills
     entries = []
     for platform_name, platform_node in tree.items():
         for md_path in (repo_root / platform_name).rglob("*.md"):
@@ -169,13 +141,11 @@ def collect_entries_and_tree(repo_root: Path):
             text = read_text(md_path)
             fm, body = parse_front_matter(text)
 
-            # Basic fields
             challenge = fm.get("Challenge") or first_h1(body) or md_path.stem.replace("_", " ").replace("-", " ")
             platform = fm.get("Platform") or guess_platform_and_difficulty(md_path.relative_to(repo_root))[0] or platform_name
             difficulty = fm.get("Difficulty") or guess_platform_and_difficulty(md_path.relative_to(repo_root))[1] or "Unspecified"
             points = fm.get("Points", "")
 
-            # Skills
             skills = fm.get("Skills")
             if isinstance(skills, str):
                 skills = [s.strip() for s in skills.split(",") if s.strip()]
@@ -189,41 +159,31 @@ def collect_entries_and_tree(repo_root: Path):
                 "points": points,
                 "skills": skills or [],
                 "relpath": md_path.relative_to(repo_root).as_posix(),
+                "date": datetime.fromtimestamp(md_path.stat().st_mtime)
             })
     return entries, tree
 
 
 def render_tree_md(tree: dict) -> str:
-    """
-    Renders the nested tree as a Markdown bullet list with folder icons & clickable file links.
-    """
     lines = []
-
     def render_node(name: str, node: dict, depth: int):
         indent = "    " * depth
-        # Render directories first
         for subdir, subnode in node.get("_dirs", {}).items():
             lines.append(f"{indent}- **{subdir}/**")
             render_node(subdir, subnode, depth + 1)
-        # Then files
         for fname, rel in node.get("_files", []):
             lines.append(f"{indent}- [{fname}]({rel})")
 
-    # Top-level sections per platform in alpha order
     for platform in sorted(tree.keys(), key=lambda s: s.lower()):
         lines.append(f"### 📁 {platform}\n")
         render_node(platform, tree[platform], depth=0)
-        lines.append("")  # blank line
+        lines.append("")
     return "\n".join(lines).strip() or "_(Folders and write-ups will appear here automatically.)_"
 
 
 def build_table(entries: list) -> str:
     def sk(e):
-        return (
-            e["platform"].lower(),
-            DIFFICULTY_ORDER.get(e["difficulty"], 99),
-            e["challenge"].lower()
-        )
+        return (e["platform"].lower(), DIFFICULTY_ORDER.get(e["difficulty"], 99), e["challenge"].lower())
     entries_sorted = sorted(entries, key=sk)
     if not entries_sorted:
         return "_No write-ups found yet._"
@@ -248,11 +208,60 @@ def aggregate_skills(entries: list) -> str:
     return out
 
 
+def generate_ctf_graphs(entries, outdir="assets"):
+    os.makedirs(outdir, exist_ok=True)
+
+    by_platform = Counter(e["platform"] for e in entries)
+    by_difficulty = Counter(e["difficulty"] for e in entries)
+
+    # Platform chart
+    plt.figure(figsize=(6,4))
+    plt.bar(by_platform.keys(), by_platform.values())
+    plt.title("CTFs Solved by Platform")
+    plt.ylabel("Count")
+    plt.xticks(rotation=30, ha="right")
+    plt.tight_layout()
+    plt.savefig(f"{outdir}/ctf_by_platform.svg")
+    plt.close()
+
+    # Difficulty chart
+    plt.figure(figsize=(6,4))
+    plt.bar(by_difficulty.keys(), by_difficulty.values(), color="orange")
+    plt.title("CTFs Solved by Difficulty")
+    plt.ylabel("Count")
+    plt.tight_layout()
+    plt.savefig(f"{outdir}/ctf_by_difficulty.svg")
+    plt.close()
+
+    # Heatmap (calendar-style)
+    dates = [e["date"].date() for e in entries]
+    df = pd.DataFrame({"date": dates})
+    df["count"] = 1
+    df = df.groupby("date").sum().reset_index()
+    df = df.set_index("date").resample("D").sum().fillna(0)
+
+    pivot = df.reset_index()
+    pivot["week"] = pivot["date"].dt.isocalendar().week
+    pivot["dow"] = pivot["date"].dt.weekday
+
+    heatmap_data = pivot.pivot("dow", "week", "count")
+    plt.figure(figsize=(12,2))
+    sns.heatmap(heatmap_data, cmap="Greens", cbar=False)
+    plt.title("CTF Solves Heatmap")
+    plt.ylabel("Day of Week")
+    plt.xlabel("Week")
+    plt.tight_layout()
+    plt.savefig(f"{outdir}/ctf_heatmap.svg")
+    plt.close()
+
+
 def build_readme(repo_root: Path) -> str:
     entries, tree = collect_entries_and_tree(repo_root)
     tree_md = render_tree_md(tree)
     table_md = build_table(entries)
     skills_md = aggregate_skills(entries)
+
+    generate_ctf_graphs(entries)
 
     readme = f"""# {REPO_TITLE}
 
@@ -279,11 +288,14 @@ Each report includes:
 ---
 
 ## 🎯 Skills Covered So Far
-- Reconnaissance: `nmap`, `gobuster`, `dirb`, `enum4linux` 
-- Exploitation: `FTP login`, `SQLi`, `command injection`, `SSRF`, `path traversal` 
-- Password Attacks: `hydra`, `john` 
-- Post-Exploitation: `Privilege escalation`, `sudo misconfigurations` 
-- Tools: `nmap`, `ftp`, `hydra`, `ssh`, `sudo`, `tar`, `sqlmap`, `burpsuite`
+{skills_md}
+
+---
+
+## 📊 CTF Stats
+![By Platform](assets/ctf_by_platform.svg)
+![By Difficulty](assets/ctf_by_difficulty.svg)
+![Heatmap](assets/ctf_heatmap.svg)
 
 ---
 
@@ -309,7 +321,7 @@ def main():
     repo_root = Path(".").resolve()
     md = build_readme(repo_root)
     Path("README.md").write_text(md, encoding="utf-8")
-    print("README.md regenerated.")
+    print("README.md regenerated with graphs and heatmap.")
 
 
 if __name__ == "__main__":
