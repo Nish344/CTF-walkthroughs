@@ -120,15 +120,6 @@ Each report includes:
 
 ---
 
-## 🎯 Skills Covered So Far
-Reconnaissance: `nmap`, `gobuster`, `dirb`, `enum4linux`,`nikto`
-Exploitation: `FTP login`, `SQLi`, `command injection`, `SSRF`, `path traversal`,`reverse shell`
-Password Attacks: `hydra`, `john`
-Post-Exploitation: `Privilege escalation`, `sudo misconfigurations`
-Tools: `nmap`, `ftp`, `hydra`, `ssh`, `sudo`, `tar`, `sqlmap`, `burpsuite`
-
----
-
 ## 📌 About This Repository
 I actively solve CTF challenges from:
 - [TryHackMe](https://tryhackme.com)
