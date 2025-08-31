@@ -207,52 +207,35 @@ def aggregate_skills(entries: list) -> str:
     out = "- " + "\n- ".join(sorted(bag, key=lambda x: x.lower()))
     return out
 
-
 def generate_ctf_graphs(entries, outdir="assets"):
     os.makedirs(outdir, exist_ok=True)
 
-    by_platform = Counter(e["platform"] for e in entries)
-    by_difficulty = Counter(e["difficulty"] for e in entries)
+    # Collect dates (use file creation date if you want)
+    data = []
+    for e in entries:
+        # if you’re not storing dates in metadata, use today as fallback
+        data.append({"date": e.get("date", datetime.today().date())})
 
-    # Platform chart
-    plt.figure(figsize=(6,4))
-    plt.bar(by_platform.keys(), by_platform.values())
-    plt.title("CTFs Solved by Platform")
-    plt.ylabel("Count")
-    plt.xticks(rotation=30, ha="right")
-    plt.tight_layout()
-    plt.savefig(f"{outdir}/ctf_by_platform.svg")
-    plt.close()
+    df = pd.DataFrame(data)
 
-    # Difficulty chart
-    plt.figure(figsize=(6,4))
-    plt.bar(by_difficulty.keys(), by_difficulty.values(), color="orange")
-    plt.title("CTFs Solved by Difficulty")
-    plt.ylabel("Count")
-    plt.tight_layout()
-    plt.savefig(f"{outdir}/ctf_by_difficulty.svg")
-    plt.close()
+    # 🔑 Convert to datetime before resampling
+    df["date"] = pd.to_datetime(df["date"], errors="coerce")
+    df = df.set_index("date").resample("D").size().to_frame("count").fillna(0)
 
-    # Heatmap (calendar-style)
-    dates = [e["date"].date() for e in entries]
-    df = pd.DataFrame({"date": dates})
-    df["count"] = 1
-    df = df.groupby("date").sum().reset_index()
-    df = df.set_index("date").resample("D").sum().fillna(0)
-
+    # Plot heatmap-like calendar (weekly)
     pivot = df.reset_index()
+    pivot["dow"] = pivot["date"].dt.dayofweek  # Monday=0
     pivot["week"] = pivot["date"].dt.isocalendar().week
-    pivot["dow"] = pivot["date"].dt.weekday
-
     heatmap_data = pivot.pivot("dow", "week", "count")
-    plt.figure(figsize=(12,2))
-    sns.heatmap(heatmap_data, cmap="Greens", cbar=False)
-    plt.title("CTF Solves Heatmap")
-    plt.ylabel("Day of Week")
-    plt.xlabel("Week")
+
+    plt.figure(figsize=(12, 3))
+    sns.heatmap(heatmap_data, cmap="Greens", cbar=False, linewidths=0.5)
+    plt.title("CTF Solves Calendar Heatmap")
+    plt.yticks([0,1,2,3,4,5,6], ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"], rotation=0)
     plt.tight_layout()
     plt.savefig(f"{outdir}/ctf_heatmap.svg")
     plt.close()
+
 
 
 def build_readme(repo_root: Path) -> str:
