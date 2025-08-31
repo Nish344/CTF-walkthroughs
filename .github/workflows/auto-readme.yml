@@ -31,6 +31,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install pyyaml
 
+      - name: Install Python dependencies
+        run: |
+          pip install matplotlib seaborn pandas
+
       - name: Regenerate README
         run: |
           python .github/scripts/update_readme.py
