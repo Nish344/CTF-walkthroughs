@@ -138,8 +138,6 @@ I actively solve CTF challenges from:
 
 This repository is both my **learning archive** and **portfolio**. Each write-up is prepared with a focus on clarity so beginners can follow along.
 
-![CTF Stats](https://raw.githubusercontent.com/Nish344/CTF-Repo/main/ctf-metrics.svg)
-
 ---
 
 ## 📬 Connect with Me
