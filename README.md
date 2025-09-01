@@ -67,6 +67,7 @@ Each report includes:
 - **Medium/**
     - [Golden_Eye.md](TryHackMe/Medium/Golden_Eye.md)
     - [HA_Joker.md](TryHackMe/Medium/HA_Joker.md)
+    - [Rabbit_Hole.md](TryHackMe/Medium/Rabbit_Hole.md)
     - [RSA_breaker.md](TryHackMe/Medium/RSA_breaker.md)
     - [UltraTech.md](TryHackMe/Medium/UltraTech.md)
     - [Year_Of_The_Rabbit.md](TryHackMe/Medium/Year_Of_The_Rabbit.md)
@@ -116,6 +117,7 @@ Each report includes:
 | HA Joker - VAPT Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/HA_Joker.md) |
 | RSA Breaker – TryHackMe VAPT Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/RSA_breaker.md) |
 | Utech – TryHackMe VAPT Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/UltraTech.md) |
+| Vulnerability Assessment and Penetration Testing (VAPT) Report – Wonderland | TryHackMe | Medium | [Open](TryHackMe/Medium/Rabbit_Hole.md) |
 | Year of the Rabbit – TryHackMe VAPT Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/Year_Of_The_Rabbit.md) |
 
 ---
