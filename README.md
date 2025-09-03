@@ -57,6 +57,7 @@ Each report includes:
     - [cyborg.md](TryHackMe/Easy/cyborg.md)
     - [FlipIt.md](TryHackMe/Easy/FlipIt.md)
     - [Gaming_Server.md](TryHackMe/Easy/Gaming_Server.md)
+    - [Ignite.md](TryHackMe/Easy/Ignite.md)
     - [Lazy_Admin.md](TryHackMe/Easy/Lazy_Admin.md)
     - [Lian_Yu.md](TryHackMe/Easy/Lian_Yu.md)
     - [Light.md](TryHackMe/Easy/Light.md)
@@ -98,6 +99,7 @@ Each report includes:
 | 🛡️ PicoCTF Lab Walkthrough – SQL Direct | PicoCTF | Medium | [Open](PicoCTF/Medium/02_Sql_direct.md) |
 | 🛡️ PicoCTF Lab Walkthrough – SQLiLite | PicoCTF | Medium | [Open](PicoCTF/Medium/01_SqliLite.md) |
 | PicoCTF Hard Challenge – Notepad Vulnerability Assessment and Penetration Testing (VAPT) Report | PicoCTF | Hard | [Open](PicoCTF/Hard/Notepad.md) |
+| **CTF Write-up: Ignite** | TryHackMe | Easy | [Open](TryHackMe/Easy/Ignite.md) |
 | **Vulnerability Assessment and Penetration Testing (VAPT) Report – Agent Sudo** | TryHackMe | Easy | [Open](TryHackMe/Easy/Agent_Sudo.md) |
 | **Vulnerability Assessment and Penetration Testing (VAPT) Report – Basic Pentesting Machine** | TryHackMe | Easy | [Open](TryHackMe/Easy/Basic_Pentesting.md) |
 | Bricks Heist – Hack The Box (HTB) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Brick_Heist.md) |
