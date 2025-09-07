@@ -66,6 +66,7 @@ Each report includes:
     - [Root_Me.md](TryHackMe/Easy/Root_Me.md)
     - [Simple_CTF.md](TryHackMe/Easy/Simple_CTF.md)
     - [tomcat_ghost.md](TryHackMe/Easy/tomcat_ghost.md)
+    - [VulnNet_Internal.md](TryHackMe/Easy/VulnNet_Internal.md)
 - **Medium/**
     - [Classic_passwd.md](TryHackMe/Medium/Classic_passwd.md)
     - [Golden_Eye.md](TryHackMe/Medium/Golden_Eye.md)
@@ -118,6 +119,7 @@ Each report includes:
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – GamingServer | TryHackMe | Easy | [Open](TryHackMe/Easy/Gaming_Server.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – LianYu | TryHackMe | Easy | [Open](TryHackMe/Easy/Lian_Yu.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – OverlayFS Exploit Lab | TryHackMe | Easy | [Open](TryHackMe/Easy/Overlay_fs.md) |
+| VulnNet Internal – TryHackMe VAPT Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/VulnNet_Internal.md) |
 | GoldenEye – TryHackMe Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/Golden_Eye.md) |
 | HA Joker - VAPT Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/HA_Joker.md) |
 | RSA Breaker – TryHackMe VAPT Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/RSA_breaker.md) |
