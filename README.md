@@ -18,6 +18,7 @@ Each report includes:
 - **Easy/**
     - [Noxtal.md](CTFlearn/Easy/Noxtal.md)
 - **Hard/**
+    - [Code_Injection_Exploitation.md](CTFlearn/Hard/Code_Injection_Exploitation.md)
     - [InjectionTime.md](CTFlearn/Hard/InjectionTime.md)
 - **Medium/**
     - [HTTP_Header_Manipulation.md](CTFlearn/Medium/HTTP_Header_Manipulation.md)
@@ -85,6 +86,7 @@ Each report includes:
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – HTTP Header Manipulation | CTFlearn | Medium | [Open](CTFlearn/Medium/HTTP_Header_Manipulation.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – HTTP Request Manipulation | CTFlearn | Medium | [Open](CTFlearn/Medium/HTTP_Request_Manipulation.md) |
 | CTFlearn Web Exploitation Labs – Detailed Walkthrough | CTFlearn | Hard | [Open](CTFlearn/Hard/InjectionTime.md) |
+| Vulnerability Assessment and Penetration Testing (VAPT) Report – Code Injection Exploitation | CTFlearn | Hard | [Open](CTFlearn/Hard/Code_Injection_Exploitation.md) |
 | PicoCTF Lab Walkthrough – Caas | PicoCTF | Easy | [Open](PicoCTF/Easy/12_Caas.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Forbidden Paths | PicoCTF | Easy | [Open](PicoCTF/Easy/11_ForbiddenPaths.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Image Metadata CTF | PicoCTF | Easy | [Open](PicoCTF/Easy/05_Image_Metadata_CTF.md) |
