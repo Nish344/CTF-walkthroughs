@@ -56,6 +56,7 @@ Each report includes:
     - [Bounty_Hacker.md](TryHackMe/Easy/Bounty_Hacker.md)
     - [Break_It.md](TryHackMe/Easy/Break_It.md)
     - [Brick_Heist.md](TryHackMe/Easy/Brick_Heist.md)
+    - [CyberHeroes.md](TryHackMe/Easy/CyberHeroes.md)
     - [cyborg.md](TryHackMe/Easy/cyborg.md)
     - [FlipIt.md](TryHackMe/Easy/FlipIt.md)
     - [Gaming_Server.md](TryHackMe/Easy/Gaming_Server.md)
@@ -108,6 +109,7 @@ Each report includes:
 | **Vulnerability Assessment and Penetration Testing (VAPT) Report – Agent Sudo** | TryHackMe | Easy | [Open](TryHackMe/Easy/Agent_Sudo.md) |
 | **Vulnerability Assessment and Penetration Testing (VAPT) Report – Basic Pentesting Machine** | TryHackMe | Easy | [Open](TryHackMe/Easy/Basic_Pentesting.md) |
 | Bricks Heist – Hack The Box (HTB) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Brick_Heist.md) |
+| CyberHeroes – TryHackMe VAPT Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/CyberHeroes.md) |
 | Cybersecurity Assessment Report - Archangel | TryHackMe | Easy | [Open](TryHackMe/Easy/Archangel.md) |
 | Flip It!! – Hack The Box Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/FlipIt.md) |
 | Lazy Admin – TryHackMe VAPT Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Lazy_Admin.md) |
