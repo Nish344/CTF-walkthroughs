@@ -24,6 +24,11 @@ Each report includes:
     - [HTTP_Header_Manipulation.md](CTFlearn/Medium/HTTP_Header_Manipulation.md)
     - [HTTP_Request_Manipulation.md](CTFlearn/Medium/HTTP_Request_Manipulation.md)
 
+### 📁 Natas
+
+- **Easy/**
+    - [Level0.md](Natas/Easy/Level0.md)
+
 ### 📁 PicoCTF
 
 - **Easy/**
@@ -88,6 +93,7 @@ Each report includes:
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – HTTP Request Manipulation | CTFlearn | Medium | [Open](CTFlearn/Medium/HTTP_Request_Manipulation.md) |
 | CTFlearn Web Exploitation Labs – Detailed Walkthrough | CTFlearn | Hard | [Open](CTFlearn/Hard/InjectionTime.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – Code Injection Exploitation | CTFlearn | Hard | [Open](CTFlearn/Hard/Code_Injection_Exploitation.md) |
+| 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 0 | Natas | Easy | [Open](Natas/Easy/Level0.md) |
 | PicoCTF Lab Walkthrough – Caas | PicoCTF | Easy | [Open](PicoCTF/Easy/12_Caas.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Forbidden Paths | PicoCTF | Easy | [Open](PicoCTF/Easy/11_ForbiddenPaths.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Image Metadata CTF | PicoCTF | Easy | [Open](PicoCTF/Easy/05_Image_Metadata_CTF.md) |
@@ -137,10 +143,10 @@ Each report includes:
 ## 📊 CTFs Solved by Difficulty
 | Difficulty | Count |
 |---|---|
-| Easy | 32 |
+| Easy | 33 |
 | Medium | 13 |
 | Hard | 3 |
-| **Total** | **48** |
+| **Total** | **49** |
 
 ---
 
