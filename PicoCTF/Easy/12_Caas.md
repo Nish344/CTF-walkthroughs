@@ -1,4 +1,4 @@
-# PicoCTF Lab Walkthrough – Caas
+# 🛡️PicoCTF Lab Walkthrough – Caas
 
 ## 📌 Challenge Info
 
