@@ -134,6 +134,16 @@ Each report includes:
 
 ---
 
+## 📊 CTFs Solved by Difficulty
+| Difficulty | Count |
+|---|---|
+| Easy | 32 |
+| Medium | 13 |
+| Hard | 3 |
+| **Total** | **48** |
+
+---
+
 ## 🎯 Skills Covered So Far
 Reconnaissance: `nmap`, `gobuster`, `dirb`, `enum4linux`,`nikto`  
 Exploitation: `FTP login`, `SQLi`, `command injection`, `SSRF`, `path traversal`  
