@@ -180,6 +180,17 @@ def build_readme(repo_root: Path) -> str:
     tree_md = render_tree_md(tree)
     table_md = build_table(entries)
 
+    # Count CTFs by difficulty
+    difficulty_counts = defaultdict(int)
+    for e in entries:
+        diff = e["difficulty"]
+        difficulty_counts[diff] += 1
+
+    total_ctfs = len(entries)
+    easy_ctfs = difficulty_counts.get("Easy", 0)
+    medium_ctfs = difficulty_counts.get("Medium", 0)
+    hard_ctfs = difficulty_counts.get("Hard", 0)
+
     readme = f"""# {REPO_TITLE}
 
 {REPO_BLURB}
@@ -201,6 +212,16 @@ Each report includes:
 
 ## ✅ Completed Write-ups
 {table_md}
+
+---
+
+## 📊 CTFs Solved by Difficulty
+| Difficulty | Count |
+|---|---|
+| Easy | {easy_ctfs} |
+| Medium | {medium_ctfs} |
+| Hard | {hard_ctfs} |
+| **Total** | **{total_ctfs}** |
 
 ---
 
