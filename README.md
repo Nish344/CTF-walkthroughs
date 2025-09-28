@@ -78,6 +78,8 @@ Each report includes:
     - [tomcat_ghost.md](TryHackMe/Easy/tomcat_ghost.md)
     - [VulnNet_Internal.md](TryHackMe/Easy/VulnNet_Internal.md)
 - **Medium/**
+    - **Linux_Agency/**
+        - [Part_1.md](TryHackMe/Medium/Linux_Agency/Part_1.md)
     - [Classic_passwd.md](TryHackMe/Medium/Classic_passwd.md)
     - [Golden_Eye.md](TryHackMe/Medium/Golden_Eye.md)
     - [HA_Joker.md](TryHackMe/Medium/HA_Joker.md)
@@ -128,14 +130,15 @@ Each report includes:
 | Light – Hack The Box Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Light.md) |
 | Simple CTF – TryHackMe VAPT Walkthrough | TryHackMe | Easy | [Open](TryHackMe/Easy/Simple_CTF.md) |
 | Tomcat Ghost – TryHackMe Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/tomcat_ghost.md) |
-| Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Root_Me.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Bounty_Hacker.md) |
+| Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Root_Me.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – BreakIt | TryHackMe | Easy | [Open](TryHackMe/Easy/Break_It.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – Cyborg | TryHackMe | Easy | [Open](TryHackMe/Easy/cyborg.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – GamingServer | TryHackMe | Easy | [Open](TryHackMe/Easy/Gaming_Server.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – LianYu | TryHackMe | Easy | [Open](TryHackMe/Easy/Lian_Yu.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – OverlayFS Exploit Lab | TryHackMe | Easy | [Open](TryHackMe/Easy/Overlay_fs.md) |
 | VulnNet Internal – TryHackMe VAPT Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/VulnNet_Internal.md) |
+| Cybersecurity Report: Penetration Testing of Linux Agency CTF Environment | TryHackMe | Medium | [Open](TryHackMe/Medium/Linux_Agency/Part_1.md) |
 | GoldenEye – TryHackMe Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/Golden_Eye.md) |
 | HA Joker - VAPT Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/HA_Joker.md) |
 | RSA Breaker – TryHackMe VAPT Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/RSA_breaker.md) |
@@ -150,9 +153,9 @@ Each report includes:
 | Difficulty | Count |
 |---|---|
 | Easy | 36 |
-| Medium | 13 |
+| Medium | 14 |
 | Hard | 3 |
-| **Total** | **52** |
+| **Total** | **53** |
 
 ---
 
