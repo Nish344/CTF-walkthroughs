@@ -37,6 +37,7 @@ Each report includes:
     - [Level_1.md](Natas/Easy/Level_1.md)
     - [Level_2.md](Natas/Easy/Level_2.md)
     - [Level_3.md](Natas/Easy/Level_3.md)
+    - [Level_4.md](Natas/Easy/Level_4.md)
 
 ### 📁 PicoCTF
 
@@ -106,6 +107,7 @@ Each report includes:
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – Code Injection Exploitation | CTFlearn | Hard | [Open](CTFlearn/Hard/Code_Injection_Exploitation.md) |
 | Obfuscated PowerShell Flags – Huntress CTF 2025 Walkthrough Report | Huntress_CTF_2025 | Medium | [Open](Huntress_CTF_2025/Medium/DAY_02/Spaghetti.md) |
 | Natas Challenge - Level 3 | Natas | Easy | [Open](Natas/Easy/Level_3.md) |
+| Natas Challenge - Level 4 | Natas | Easy | [Open](Natas/Easy/Level_4.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿 Natas Challenge - Level 1 | Natas | Easy | [Open](Natas/Easy/Level_1.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 0 | Natas | Easy | [Open](Natas/Easy/Level_0.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 2 | Natas | Easy | [Open](Natas/Easy/Level_2.md) |
@@ -159,10 +161,10 @@ Each report includes:
 ## 📊 CTFs Solved by Difficulty
 | Difficulty | Count |
 |---|---|
-| Easy | 36 |
+| Easy | 37 |
 | Medium | 15 |
 | Hard | 3 |
-| **Total** | **54** |
+| **Total** | **55** |
 
 ---
 
