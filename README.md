@@ -109,11 +109,11 @@ Each report includes:
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – Code Injection Exploitation | CTFlearn | Hard | [Open](CTFlearn/Hard/Code_Injection_Exploitation.md) |
 | Emotional – Huntress CTF 2025 Walkthrough Report | Huntress_CTF_2025 | Medium | [Open](Huntress_CTF_2025/Medium/DAY_06/Emotional.md) |
 | Obfuscated PowerShell Flags – Huntress CTF 2025 Walkthrough Report | Huntress_CTF_2025 | Medium | [Open](Huntress_CTF_2025/Medium/DAY_02/Spaghetti.md) |
-| Natas Challenge - Level 3 | Natas | Easy | [Open](Natas/Easy/Level_3.md) |
-| Natas Challenge - Level 4 | Natas | Easy | [Open](Natas/Easy/Level_4.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿 Natas Challenge - Level 1 | Natas | Easy | [Open](Natas/Easy/Level_1.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 0 | Natas | Easy | [Open](Natas/Easy/Level_0.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 2 | Natas | Easy | [Open](Natas/Easy/Level_2.md) |
+| 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 3 | Natas | Easy | [Open](Natas/Easy/Level_3.md) |
+| 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 4 | Natas | Easy | [Open](Natas/Easy/Level_4.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Forbidden Paths | PicoCTF | Easy | [Open](PicoCTF/Easy/11_ForbiddenPaths.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Image Metadata CTF | PicoCTF | Easy | [Open](PicoCTF/Easy/05_Image_Metadata_CTF.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Inspect HTML | PicoCTF | Easy | [Open](PicoCTF/Easy/02_Inspect_HTML.md) |
