@@ -64,7 +64,7 @@ Each report includes:
     - [02_Sql_direct.md](PicoCTF/Medium/02_Sql_direct.md)
     - [03_Most_Cookies.md](PicoCTF/Medium/03_Most_Cookies.md)
     - [04_Login.md](PicoCTF/Medium/04_Login.md)
-    - [Client_side_again.md](PicoCTF/Medium/Client_side_again.md)
+    - [05_Client_side_again.md](PicoCTF/Medium/05_Client_side_again.md)
 
 ### 📁 TryHackMe
 
@@ -129,7 +129,7 @@ Each report includes:
 | 🛡️ PicoCTF Lab Walkthrough – WebDecode | PicoCTF | Easy | [Open](PicoCTF/Easy/01_WebDecode.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Where Are the Robots | PicoCTF | Easy | [Open](PicoCTF/Easy/03_Where_Are_The_Robots.md) |
 | 🛡️PicoCTF Lab Walkthrough – Caas | PicoCTF | Easy | [Open](PicoCTF/Easy/12_Caas.md) |
-| 🛡️ PicoCTF Lab Walkthrough – Client-side-again | PicoCTF | Medium | [Open](PicoCTF/Medium/Client_side_again.md) |
+| 🛡️ PicoCTF Lab Walkthrough – Client-side-again | PicoCTF | Medium | [Open](PicoCTF/Medium/05_Client_side_again.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Login | PicoCTF | Medium | [Open](PicoCTF/Medium/04_Login.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Most Cookies | PicoCTF | Medium | [Open](PicoCTF/Medium/03_Most_Cookies.md) |
 | 🛡️ PicoCTF Lab Walkthrough – SQL Direct | PicoCTF | Medium | [Open](PicoCTF/Medium/02_Sql_direct.md) |
