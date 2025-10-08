@@ -66,6 +66,7 @@ Each report includes:
     - [03_Most_Cookies.md](PicoCTF/Medium/03_Most_Cookies.md)
     - [04_Login.md](PicoCTF/Medium/04_Login.md)
     - [05_Client_side_again.md](PicoCTF/Medium/05_Client_side_again.md)
+    - [06_Some_Assembly_Required_1.md](PicoCTF/Medium/06_Some_Assembly_Required_1.md)
 
 ### 📁 TryHackMe
 
@@ -134,6 +135,7 @@ Each report includes:
 | 🛡️ PicoCTF Lab Walkthrough – Client-side-again | PicoCTF | Medium | [Open](PicoCTF/Medium/05_Client_side_again.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Login | PicoCTF | Medium | [Open](PicoCTF/Medium/04_Login.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Most Cookies | PicoCTF | Medium | [Open](PicoCTF/Medium/03_Most_Cookies.md) |
+| 🛡️ PicoCTF Lab Walkthrough – Some Assembly Required 1 | PicoCTF | Medium | [Open](PicoCTF/Medium/06_Some_Assembly_Required_1.md) |
 | 🛡️ PicoCTF Lab Walkthrough – SQL Direct | PicoCTF | Medium | [Open](PicoCTF/Medium/02_Sql_direct.md) |
 | 🛡️ PicoCTF Lab Walkthrough – SQLiLite | PicoCTF | Medium | [Open](PicoCTF/Medium/01_SqliLite.md) |
 | PicoCTF Hard Challenge – Notepad Vulnerability Assessment and Penetration Testing (VAPT) Report | PicoCTF | Hard | [Open](PicoCTF/Hard/Notepad.md) |
@@ -171,9 +173,9 @@ Each report includes:
 | Difficulty | Count |
 |---|---|
 | Easy | 39 |
-| Medium | 17 |
+| Medium | 18 |
 | Hard | 3 |
-| **Total** | **59** |
+| **Total** | **60** |
 
 ---
 
