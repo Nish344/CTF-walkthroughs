@@ -57,6 +57,7 @@ Each report includes:
     - [10_PowerCookie.md](PicoCTF/Easy/10_PowerCookie.md)
     - [11_ForbiddenPaths.md](PicoCTF/Easy/11_ForbiddenPaths.md)
     - [12_Caas.md](PicoCTF/Easy/12_Caas.md)
+    - [13_picoBrowser.md](PicoCTF/Easy/13_picoBrowser.md)
 - **Hard/**
     - [Notepad.md](PicoCTF/Hard/Notepad.md)
 - **Medium/**
@@ -120,6 +121,7 @@ Each report includes:
 | 🛡️ PicoCTF Lab Walkthrough – Forbidden Paths | PicoCTF | Easy | [Open](PicoCTF/Easy/11_ForbiddenPaths.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Image Metadata CTF | PicoCTF | Easy | [Open](PicoCTF/Easy/05_Image_Metadata_CTF.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Inspect HTML | PicoCTF | Easy | [Open](PicoCTF/Easy/02_Inspect_HTML.md) |
+| 🛡️ PicoCTF Lab Walkthrough – picoBrowser | PicoCTF | Easy | [Open](PicoCTF/Easy/13_picoBrowser.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Power Cookie | PicoCTF | Easy | [Open](PicoCTF/Easy/10_PowerCookie.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Robots Sans | PicoCTF | Easy | [Open](PicoCTF/Easy/09_RobotsSans.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Search Source | PicoCTF | Easy | [Open](PicoCTF/Easy/08_SearchSource.md) |
@@ -168,10 +170,10 @@ Each report includes:
 ## 📊 CTFs Solved by Difficulty
 | Difficulty | Count |
 |---|---|
-| Easy | 38 |
+| Easy | 39 |
 | Medium | 17 |
 | Hard | 3 |
-| **Total** | **58** |
+| **Total** | **59** |
 
 ---
 
