@@ -1,7 +1,7 @@
 # 🛡️ PicoCTF Lab Walkthrough – Image Metadata CTF
 
 ## 📌 Challenge Info
-- **Category**: Forensics / Web Exploitation
+- **Category**: Forensics / Web Exploitation / File Analysis  
 - **Difficulty**: Easy
 
 ---
