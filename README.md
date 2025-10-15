@@ -24,14 +24,6 @@ Each report includes:
     - [HTTP_Header_Manipulation.md](CTFlearn/Medium/HTTP_Header_Manipulation.md)
     - [HTTP_Request_Manipulation.md](CTFlearn/Medium/HTTP_Request_Manipulation.md)
 
-### 📁 Huntress_CTF_2025
-
-- **Medium/**
-    - **DAY_02/**
-        - [Spaghetti.md](Huntress_CTF_2025/Medium/DAY_02/Spaghetti.md)
-    - **DAY_06/**
-        - [Emotional.md](Huntress_CTF_2025/Medium/DAY_06/Emotional.md)
-
 ### 📁 Natas
 
 - **Easy/**
@@ -114,8 +106,6 @@ Each report includes:
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – HTTP Request Manipulation | CTFlearn | Medium | [Open](CTFlearn/Medium/HTTP_Request_Manipulation.md) |
 | CTFlearn Web Exploitation Labs – Detailed Walkthrough | CTFlearn | Hard | [Open](CTFlearn/Hard/InjectionTime.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – Code Injection Exploitation | CTFlearn | Hard | [Open](CTFlearn/Hard/Code_Injection_Exploitation.md) |
-| Emotional – Huntress CTF 2025 Walkthrough Report | Huntress_CTF_2025 | Medium | [Open](Huntress_CTF_2025/Medium/DAY_06/Emotional.md) |
-| Obfuscated PowerShell Flags – Huntress CTF 2025 Walkthrough Report | Huntress_CTF_2025 | Medium | [Open](Huntress_CTF_2025/Medium/DAY_02/Spaghetti.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿 Natas Challenge - Level 1 | Natas | Easy | [Open](Natas/Easy/Level_1.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 0 | Natas | Easy | [Open](Natas/Easy/Level_0.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 2 | Natas | Easy | [Open](Natas/Easy/Level_2.md) |
@@ -179,9 +169,9 @@ Each report includes:
 | Difficulty | Count |
 |---|---|
 | Easy | 42 |
-| Medium | 18 |
+| Medium | 16 |
 | Hard | 3 |
-| **Total** | **63** |
+| **Total** | **61** |
 
 ---
 
