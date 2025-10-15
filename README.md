@@ -86,6 +86,7 @@ Each report includes:
     - [Ignite.md](TryHackMe/Easy/Ignite.md)
     - [Lazy_Admin.md](TryHackMe/Easy/Lazy_Admin.md)
     - [Lian_Yu.md](TryHackMe/Easy/Lian_Yu.md)
+    - [Library.md](TryHackMe/Easy/Library.md)
     - [Light.md](TryHackMe/Easy/Light.md)
     - [Overlay_fs.md](TryHackMe/Easy/Overlay_fs.md)
     - [Root_Me.md](TryHackMe/Easy/Root_Me.md)
@@ -151,6 +152,7 @@ Each report includes:
 | Cybersecurity Assessment Report - Archangel | TryHackMe | Easy | [Open](TryHackMe/Easy/Archangel.md) |
 | Flip It!! – Hack The Box Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/FlipIt.md) |
 | Lazy Admin – TryHackMe VAPT Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Lazy_Admin.md) |
+| Library CTF – TryHackMe VAPT Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Library.md) |
 | Light – Hack The Box Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Light.md) |
 | Simple CTF – TryHackMe VAPT Walkthrough | TryHackMe | Easy | [Open](TryHackMe/Easy/Simple_CTF.md) |
 | Tomcat Ghost – TryHackMe Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/tomcat_ghost.md) |
@@ -176,10 +178,10 @@ Each report includes:
 ## 📊 CTFs Solved by Difficulty
 | Difficulty | Count |
 |---|---|
-| Easy | 41 |
+| Easy | 42 |
 | Medium | 18 |
 | Hard | 3 |
-| **Total** | **62** |
+| **Total** | **63** |
 
 ---
 
