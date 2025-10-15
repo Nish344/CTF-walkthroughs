@@ -1,10 +1,10 @@
-# Bricks Heist – Hack The Box (HTB) Walkthrough Report
+# 🟩Bricks Heist – Hack The Box (HTB) Walkthrough Report
 
 **Prepared by:** Nishanth Antony  
 **Date:** August 12, 2025  
 **Difficulty:** Easy  
 **Category:** Web Exploitation / Post-Exploitation / Threat Intelligence  
-**Platform:** [Hack The Box](https://www.hackthebox.com)  
+**Platform:** Try Hack Me    
 
 ---
 
