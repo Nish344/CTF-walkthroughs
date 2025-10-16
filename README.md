@@ -135,7 +135,6 @@ Each report includes:
 | 🛡️ PicoCTF Lab Walkthrough – SQLiLite | PicoCTF | Medium | [Open](PicoCTF/Medium/01_SqliLite.md) |
 | PicoCTF Hard Challenge – Notepad Vulnerability Assessment and Penetration Testing (VAPT) Report | PicoCTF | Hard | [Open](PicoCTF/Hard/Notepad.md) |
 | **CTF Write-up: Ignite** | TryHackMe | Easy | [Open](TryHackMe/Easy/Ignite.md) |
-| **Vulnerability Assessment and Penetration Testing (VAPT) Report – Agent Sudo** | TryHackMe | Easy | [Open](TryHackMe/Easy/Agent_Sudo.md) |
 | **Vulnerability Assessment and Penetration Testing (VAPT) Report – Basic Pentesting Machine** | TryHackMe | Easy | [Open](TryHackMe/Easy/Basic_Pentesting.md) |
 | CyberHeroes – TryHackMe VAPT Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/CyberHeroes.md) |
 | Cybersecurity Assessment Report - Archangel | TryHackMe | Easy | [Open](TryHackMe/Easy/Archangel.md) |
@@ -153,6 +152,7 @@ Each report includes:
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – LianYu | TryHackMe | Easy | [Open](TryHackMe/Easy/Lian_Yu.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – OverlayFS Exploit Lab | TryHackMe | Easy | [Open](TryHackMe/Easy/Overlay_fs.md) |
 | VulnNet Internal – TryHackMe VAPT Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/VulnNet_Internal.md) |
+| 🟩Agent Sudo -  Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Agent_Sudo.md) |
 | 🟩Bricks Heist – Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Brick_Heist.md) |
 | Cybersecurity Report: Penetration Testing of Linux Agency CTF Environment | TryHackMe | Medium | [Open](TryHackMe/Medium/Linux_Agency/Part_1.md) |
 | GoldenEye – TryHackMe Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/Golden_Eye.md) |
