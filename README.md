@@ -142,7 +142,6 @@ Each report includes:
 | Light – Hack The Box Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Light.md) |
 | Simple CTF – TryHackMe VAPT Walkthrough | TryHackMe | Easy | [Open](TryHackMe/Easy/Simple_CTF.md) |
 | Tomcat Ghost – TryHackMe Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/tomcat_ghost.md) |
-| Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Bounty_Hacker.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Root_Me.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – BreakIt | TryHackMe | Easy | [Open](TryHackMe/Easy/Break_It.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – Cyborg | TryHackMe | Easy | [Open](TryHackMe/Easy/cyborg.md) |
@@ -153,6 +152,7 @@ Each report includes:
 | 🟩Agent Sudo -  Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Agent_Sudo.md) |
 | 🟩Archangel – Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Archangel.md) |
 | 🟩Basic Pentesting Machine – Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Basic_Pentesting.md) |
+| 🟩Bounty Hunter – Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Bounty_Hacker.md) |
 | 🟩Bricks Heist – Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Brick_Heist.md) |
 | Cybersecurity Report: Penetration Testing of Linux Agency CTF Environment | TryHackMe | Medium | [Open](TryHackMe/Medium/Linux_Agency/Part_1.md) |
 | GoldenEye – TryHackMe Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/Golden_Eye.md) |
