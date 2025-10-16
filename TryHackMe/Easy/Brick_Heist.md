@@ -1,4 +1,4 @@
-# 🟩Bricks Heist – Hack The Box (HTB) Walkthrough Report
+# 🟩Bricks Heist – Try Hack Me (THM) Walkthrough Report
 
 **Prepared by:** Nishanth Antony  
 **Date:** August 12, 2025  
