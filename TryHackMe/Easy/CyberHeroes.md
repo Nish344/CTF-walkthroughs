@@ -1,4 +1,4 @@
-# 🟩 CyberHeroes – Try Hack Me (THM) Walkthrough Report  
+# 🟩CyberHeroes – Try Hack Me (THM) Walkthrough Report  
 
 **Prepared by:** Nishanth Antony  
 **Date:** September 17, 2025  
