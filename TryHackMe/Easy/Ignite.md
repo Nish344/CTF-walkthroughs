@@ -1,4 +1,4 @@
-# **CTF Write-up: Ignite**
+# 🟩 Ignite – Try Hack Me (THM) Walkthrough Report  
 
 **Prepared by:** Nishanth Antony  
 **Date:** September 1, 2025  
