@@ -1,10 +1,10 @@
-# Flip It!! – Hack The Box Walkthrough Report
+# 🟩 Flip It!! – Try Hack Me (THM) Walkthrough Report  
 
 **Prepared by:** Nishanth Antony  
 **Date:** August 12, 2025  
 **Difficulty:** Medium  
 **Category:** Cryptography / CBC Bit-Flipping Attack  
-**Platform:** Hack The Box (HTB)  
+**Platform:** Try Hack Me (THM)  
 
 ---
 
