@@ -35,6 +35,7 @@ Each report includes:
     - [Level_5.md](Natas/Easy/Level_5.md)
     - [Level_6.md](Natas/Easy/Level_6.md)
     - [Level_7.md](Natas/Easy/Level_7.md)
+    - [Level_8.md](Natas/Easy/Level_8.md)
 
 ### 📁 PicoCTF
 
@@ -114,6 +115,7 @@ Each report includes:
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 5 | Natas | Easy | [Open](Natas/Easy/Level_5.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 6 | Natas | Easy | [Open](Natas/Easy/Level_6.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 7 | Natas | Easy | [Open](Natas/Easy/Level_7.md) |
+| 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 8 | Natas | Easy | [Open](Natas/Easy/Level_8.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Forbidden Paths | PicoCTF | Easy | [Open](PicoCTF/Easy/11_ForbiddenPaths.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Image Metadata CTF | PicoCTF | Easy | [Open](PicoCTF/Easy/05_Image_Metadata_CTF.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Inspect HTML | PicoCTF | Easy | [Open](PicoCTF/Easy/02_Inspect_HTML.md) |
@@ -168,10 +170,10 @@ Each report includes:
 ## 📊 CTFs Solved by Difficulty
 | Difficulty | Count |
 |---|---|
-| Easy | 42 |
+| Easy | 43 |
 | Medium | 16 |
 | Hard | 3 |
-| **Total** | **61** |
+| **Total** | **62** |
 
 ---
 
