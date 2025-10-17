@@ -1,4 +1,4 @@
-# 🟩 GamingServer – Try Hack Me (THM) Walkthrough Report  
+# 🟩GamingServer – Try Hack Me (THM) Walkthrough Report  
 
 **Prepared by:** Nishanth Antony  
 **Date:** August 29, 2025  
