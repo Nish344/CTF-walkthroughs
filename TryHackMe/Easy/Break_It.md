@@ -1,4 +1,4 @@
-# 🟩 BreakIt – Try Hack Me (THM) Walkthrough Report  
+# 🟩BreakIt – Try Hack Me (THM) Walkthrough Report  
 
 **Prepared by:** Nishanth Antony  
 **Date:** August 21, 2025  
