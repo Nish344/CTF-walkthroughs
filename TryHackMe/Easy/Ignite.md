@@ -1,4 +1,4 @@
-# 🟩 Ignite – Try Hack Me (THM) Walkthrough Report  
+# 🟩Ignite – Try Hack Me (THM) Walkthrough Report  
 
 **Prepared by:** Nishanth Antony  
 **Date:** September 1, 2025  
