@@ -36,6 +36,7 @@ Each report includes:
     - [Level_6.md](Natas/Easy/Level_6.md)
     - [Level_7.md](Natas/Easy/Level_7.md)
     - [Level_8.md](Natas/Easy/Level_8.md)
+    - [Level_9.md](Natas/Easy/Level_9.md)
 
 ### 📁 PicoCTF
 
@@ -108,6 +109,7 @@ Each report includes:
 | CTFlearn Web Exploitation Labs – Detailed Walkthrough | CTFlearn | Hard | [Open](CTFlearn/Hard/InjectionTime.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – Code Injection Exploitation | CTFlearn | Hard | [Open](CTFlearn/Hard/Code_Injection_Exploitation.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿 Natas Challenge - Level 1 | Natas | Easy | [Open](Natas/Easy/Level_1.md) |
+| 🏴󠁡󠁦󠁷󠁡󠁲󠁿**Natas Challenge - Level 9** | Natas | Easy | [Open](Natas/Easy/Level_9.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 0 | Natas | Easy | [Open](Natas/Easy/Level_0.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 2 | Natas | Easy | [Open](Natas/Easy/Level_2.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 3 | Natas | Easy | [Open](Natas/Easy/Level_3.md) |
@@ -170,10 +172,10 @@ Each report includes:
 ## 📊 CTFs Solved by Difficulty
 | Difficulty | Count |
 |---|---|
-| Easy | 43 |
+| Easy | 44 |
 | Medium | 16 |
 | Hard | 3 |
-| **Total** | **62** |
+| **Total** | **63** |
 
 ---
 
