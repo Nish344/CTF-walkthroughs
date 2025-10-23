@@ -1,4 +1,4 @@
-# 🏴󠁡󠁦󠁷󠁡󠁲󠁿**Natas Challenge - Level 9**
+# 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 9
 
 **Prepared by:** Nishanth Antony  
 **Date:** October 16, 2025  
