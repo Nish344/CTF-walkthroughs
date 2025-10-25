@@ -75,6 +75,7 @@ Each report includes:
     - [Brick_Heist.md](TryHackMe/Easy/Brick_Heist.md)
     - [CyberHeroes.md](TryHackMe/Easy/CyberHeroes.md)
     - [cyborg.md](TryHackMe/Easy/cyborg.md)
+    - [Dav.md](TryHackMe/Easy/Dav.md)
     - [FlipIt.md](TryHackMe/Easy/FlipIt.md)
     - [Gaming_Server.md](TryHackMe/Easy/Gaming_Server.md)
     - [Ignite.md](TryHackMe/Easy/Ignite.md)
@@ -155,6 +156,7 @@ Each report includes:
 | 🟩BreakIt – Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Break_It.md) |
 | 🟩Bricks Heist – Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Brick_Heist.md) |
 | 🟩CyberHeroes – Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/CyberHeroes.md) |
+| 🟩DAV – Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Dav.md) |
 | 🟩Flip It!! – Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/FlipIt.md) |
 | 🟩GamingServer – Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Gaming_Server.md) |
 | 🟩Ignite – Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Ignite.md) |
@@ -172,10 +174,10 @@ Each report includes:
 ## 📊 CTFs Solved by Difficulty
 | Difficulty | Count |
 |---|---|
-| Easy | 44 |
+| Easy | 45 |
 | Medium | 16 |
 | Hard | 3 |
-| **Total** | **63** |
+| **Total** | **64** |
 
 ---
 
