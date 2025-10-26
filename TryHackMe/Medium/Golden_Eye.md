@@ -1,4 +1,4 @@
-# GoldenEye – TryHackMe Walkthrough Report
+# 🟩GoldenEye – Try Hack Me (THM) Walkthrough Report
 
 **Prepared by:** Nishanth Antony  
 **Date:** August 13, 2025  
