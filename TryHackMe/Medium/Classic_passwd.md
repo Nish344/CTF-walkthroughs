@@ -1,4 +1,4 @@
-# Vulnerability Assessment and Penetration Testing (VAPT) Report  - Classic-passwd
+# 🟩Classic-passwd - Try Hack Me (THM) Walkthrough Report  
 
 **Prepared by:** Nishanth Antony  
 **Date:** September 6, 2025  
