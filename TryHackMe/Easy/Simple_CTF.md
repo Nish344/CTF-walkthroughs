@@ -1,4 +1,4 @@
-# Simple CTF – TryHackMe VAPT Walkthrough
+# 🟩Simple CTF – Try Hack Me (THM) Walkthrough Report
 
 **Prepared by:** Nishanth Antony  
 **Date:** August 17, 2025  
