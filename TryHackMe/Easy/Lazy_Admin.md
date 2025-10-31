@@ -1,4 +1,4 @@
-# Lazy Admin – TryHackMe VAPT Walkthrough Report
+# 🟩Lazy Admin – Try Hack Me (THM) Walkthrough Report
 
 **Prepared by:** Nishanth Antony  
 **Date:** August 27, 2025  
