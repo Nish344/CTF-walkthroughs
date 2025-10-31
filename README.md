@@ -142,7 +142,6 @@ Each report includes:
 | 🛡️ PicoCTF Lab Walkthrough – SQL Direct | PicoCTF | Medium | [Open](PicoCTF/Medium/02_Sql_direct.md) |
 | 🛡️ PicoCTF Lab Walkthrough – SQLiLite | PicoCTF | Medium | [Open](PicoCTF/Medium/01_SqliLite.md) |
 | PicoCTF Hard Challenge – Notepad Vulnerability Assessment and Penetration Testing (VAPT) Report | PicoCTF | Hard | [Open](PicoCTF/Hard/Notepad.md) |
-| Lazy Admin – TryHackMe VAPT Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Lazy_Admin.md) |
 | Library CTF – TryHackMe VAPT Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Library.md) |
 | Light – Hack The Box Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Light.md) |
 | Simple CTF – TryHackMe VAPT Walkthrough | TryHackMe | Easy | [Open](TryHackMe/Easy/Simple_CTF.md) |
@@ -163,6 +162,7 @@ Each report includes:
 | 🟩Flip It!! – Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/FlipIt.md) |
 | 🟩GamingServer – Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Gaming_Server.md) |
 | 🟩Ignite – Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Ignite.md) |
+| 🟩Lazy Admin – Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Lazy_Admin.md) |
 | Cybersecurity Report: Penetration Testing of Linux Agency CTF Environment | TryHackMe | Medium | [Open](TryHackMe/Medium/Linux_Agency/Part_1.md) |
 | Utech – TryHackMe VAPT Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/UltraTech.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – Wonderland | TryHackMe | Medium | [Open](TryHackMe/Medium/Rabbit_Hole.md) |
