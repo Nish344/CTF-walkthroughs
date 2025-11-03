@@ -30,6 +30,7 @@ Each report includes:
     - [Level_0.md](Natas/Easy/Level_0.md)
     - [Level_1.md](Natas/Easy/Level_1.md)
     - [Level_10.md](Natas/Easy/Level_10.md)
+    - [Level_11.md](Natas/Easy/Level_11.md)
     - [Level_2.md](Natas/Easy/Level_2.md)
     - [Level_3.md](Natas/Easy/Level_3.md)
     - [Level_4.md](Natas/Easy/Level_4.md)
@@ -114,6 +115,7 @@ Each report includes:
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿 Natas Challenge - Level 1 | Natas | Easy | [Open](Natas/Easy/Level_1.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 0 | Natas | Easy | [Open](Natas/Easy/Level_0.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 10 | Natas | Easy | [Open](Natas/Easy/Level_10.md) |
+| 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 11 | Natas | Easy | [Open](Natas/Easy/Level_11.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 2 | Natas | Easy | [Open](Natas/Easy/Level_2.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 3 | Natas | Easy | [Open](Natas/Easy/Level_3.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 4 | Natas | Easy | [Open](Natas/Easy/Level_4.md) |
@@ -178,10 +180,10 @@ Each report includes:
 ## 📊 CTFs Solved by Difficulty
 | Difficulty | Count |
 |---|---|
-| Easy | 46 |
+| Easy | 47 |
 | Medium | 17 |
 | Hard | 3 |
-| **Total** | **66** |
+| **Total** | **67** |
 
 ---
 
