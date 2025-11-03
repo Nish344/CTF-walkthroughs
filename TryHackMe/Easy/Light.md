@@ -1,10 +1,9 @@
-# Light – Hack The Box Walkthrough Report
-
+# 🟩Light – Try Hack Me (THM) Walkthrough Report
 **Prepared by:** Nishanth Antony  
 **Date:** August 12, 2025  
 **Difficulty:** Easy  
 **Category:** Web Exploitation (SQL Injection)  
-**Platform:** Hack The Box (HTB)  
+**Platform:** Try Hack Me (THM)  
 
 ---
 
