@@ -145,4 +145,3 @@ After gaining SSH access as `alice`, initial exploration revealed `root.txt` and
 - Web directory enumeration (gobuster)  
 - SSH access via web-discovered credentials  
 - Privilege escalation (setuid, capabilities)  
-- Secure reporting and mitigation strategies  
