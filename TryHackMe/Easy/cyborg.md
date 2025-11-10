@@ -36,7 +36,6 @@
   home/field/dev/final_archive/README
   home/field/dev/final_archive/nonce
   home/field/dev/final_archive/index.5
-  home/field/dev/final_archive/data/
   home/field/dev/final_archive/data/0/
   home/field/dev/final_archive/data/0/5
   home/field/dev/final_archive/data/0/3
