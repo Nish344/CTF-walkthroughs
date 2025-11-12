@@ -32,6 +32,7 @@ Each report includes:
     - [Level_10.md](Natas/Easy/Level_10.md)
     - [Level_11.md](Natas/Easy/Level_11.md)
     - [Level_12.md](Natas/Easy/Level_12.md)
+    - [Level_13.md](Natas/Easy/Level_13.md)
     - [Level_2.md](Natas/Easy/Level_2.md)
     - [Level_3.md](Natas/Easy/Level_3.md)
     - [Level_4.md](Natas/Easy/Level_4.md)
@@ -113,6 +114,7 @@ Each report includes:
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – HTTP Request Manipulation | CTFlearn | Medium | [Open](CTFlearn/Medium/HTTP_Request_Manipulation.md) |
 | CTFlearn Web Exploitation Labs – Detailed Walkthrough | CTFlearn | Hard | [Open](CTFlearn/Hard/InjectionTime.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – Code Injection Exploitation | CTFlearn | Hard | [Open](CTFlearn/Hard/Code_Injection_Exploitation.md) |
+| **Natas Challenge - Level 13** | Natas | Easy | [Open](Natas/Easy/Level_13.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿 Natas Challenge - Level 1 | Natas | Easy | [Open](Natas/Easy/Level_1.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 0 | Natas | Easy | [Open](Natas/Easy/Level_0.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 10 | Natas | Easy | [Open](Natas/Easy/Level_10.md) |
@@ -182,10 +184,10 @@ Each report includes:
 ## 📊 CTFs Solved by Difficulty
 | Difficulty | Count |
 |---|---|
-| Easy | 48 |
+| Easy | 49 |
 | Medium | 17 |
 | Hard | 3 |
-| **Total** | **68** |
+| **Total** | **69** |
 
 ---
 
