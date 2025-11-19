@@ -1,5 +1,4 @@
-# Vulnerability Assessment and Penetration Testing (VAPT) Report  
-## Root Me (TryHackMe)  
+# 🟩Root Me - Try Hack Me (THM) Walkthrough Report    
 
 **Prepared by:** Nishanth Antony
 **Date:** August 11, 2025  
