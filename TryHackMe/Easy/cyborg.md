@@ -1,4 +1,4 @@
-# Vulnerability Assessment and Penetration Testing (VAPT) Report – Cyborg
+# 🟩Cyborg - TryHackMe(THM) Walkthrough Report
 
 **Prepared by:** Nishanth Antony  
 **Date:** August 29, 2025  
