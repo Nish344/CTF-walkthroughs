@@ -150,10 +150,7 @@ Each report includes:
 | 🛡️ PicoCTF Lab Walkthrough – SQL Direct | PicoCTF | Medium | [Open](PicoCTF/Medium/02_Sql_direct.md) |
 | 🛡️ PicoCTF Lab Walkthrough – SQLiLite | PicoCTF | Medium | [Open](PicoCTF/Medium/01_SqliLite.md) |
 | PicoCTF Hard Challenge – Notepad Vulnerability Assessment and Penetration Testing (VAPT) Report | PicoCTF | Hard | [Open](PicoCTF/Hard/Notepad.md) |
-| Tomcat Ghost – TryHackMe Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/tomcat_ghost.md) |
-| Vulnerability Assessment and Penetration Testing (VAPT) Report – Cyborg | TryHackMe | Easy | [Open](TryHackMe/Easy/cyborg.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – OverlayFS Exploit Lab | TryHackMe | Easy | [Open](TryHackMe/Easy/Overlay_fs.md) |
-| VulnNet Internal – TryHackMe VAPT Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/VulnNet_Internal.md) |
 | 🟩Agent Sudo -  Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Agent_Sudo.md) |
 | 🟩Archangel – Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Archangel.md) |
 | 🟩Basic Pentesting Machine – Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Basic_Pentesting.md) |
@@ -161,6 +158,7 @@ Each report includes:
 | 🟩BreakIt – Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Break_It.md) |
 | 🟩Bricks Heist – Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Brick_Heist.md) |
 | 🟩CyberHeroes – Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/CyberHeroes.md) |
+| 🟩Cyborg - TryHackMe(THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/cyborg.md) |
 | 🟩DAV – Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Dav.md) |
 | 🟩Flip It!! – Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/FlipIt.md) |
 | 🟩GamingServer – Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Gaming_Server.md) |
@@ -171,6 +169,8 @@ Each report includes:
 | 🟩Light – Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Light.md) |
 | 🟩Root Me - Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Root_Me.md) |
 | 🟩Simple CTF – Try Hack Me (THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/Simple_CTF.md) |
+| 🟩Tomcat Ghost – TryHackMe(THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/tomcat_ghost.md) |
+| 🟩VulnNet Internal – TryHackMe(THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/VulnNet_Internal.md) |
 | Cybersecurity Report: Penetration Testing of Linux Agency CTF Environment | TryHackMe | Medium | [Open](TryHackMe/Medium/Linux_Agency/Part_1.md) |
 | Utech – TryHackMe VAPT Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/UltraTech.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – Wonderland | TryHackMe | Medium | [Open](TryHackMe/Medium/Rabbit_Hole.md) |
