@@ -117,9 +117,9 @@ Each report includes:
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – HTTP Request Manipulation | CTFlearn | Medium | [Open](CTFlearn/Medium/HTTP_Request_Manipulation.md) |
 | CTFlearn Web Exploitation Labs – Detailed Walkthrough | CTFlearn | Hard | [Open](CTFlearn/Hard/InjectionTime.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – Code Injection Exploitation | CTFlearn | Hard | [Open](CTFlearn/Hard/Code_Injection_Exploitation.md) |
-| **Natas Challenge - Level 13** | Natas | Easy | [Open](Natas/Easy/Level_13.md) |
-| **Natas Challenge - Level 14** | Natas | Easy | [Open](Natas/Easy/Level_14.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿 Natas Challenge - Level 1 | Natas | Easy | [Open](Natas/Easy/Level_1.md) |
+| 🏴󠁡󠁦󠁷󠁡󠁲󠁿**Natas Challenge - Level 13** | Natas | Easy | [Open](Natas/Easy/Level_13.md) |
+| 🏴󠁡󠁦󠁷󠁡󠁲󠁿**Natas Challenge - Level 14** | Natas | Easy | [Open](Natas/Easy/Level_14.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 0 | Natas | Easy | [Open](Natas/Easy/Level_0.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 10 | Natas | Easy | [Open](Natas/Easy/Level_10.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 11 | Natas | Easy | [Open](Natas/Easy/Level_11.md) |
@@ -132,7 +132,7 @@ Each report includes:
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 7 | Natas | Easy | [Open](Natas/Easy/Level_7.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 8 | Natas | Easy | [Open](Natas/Easy/Level_8.md) |
 | 🏴󠁡󠁦󠁷󠁡󠁲󠁿Natas Challenge - Level 9 | Natas | Easy | [Open](Natas/Easy/Level_9.md) |
-| **Natas Challenge – Level 15** | Natas | Medium | [Open](Natas/Medium/Level15.md) |
+| 🏴󠁡󠁦󠁷󠁡󠁲󠁿**Natas Challenge – Level 15** | Natas | Medium | [Open](Natas/Medium/Level15.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Forbidden Paths | PicoCTF | Easy | [Open](PicoCTF/Easy/11_ForbiddenPaths.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Image Metadata CTF | PicoCTF | Easy | [Open](PicoCTF/Easy/05_Image_Metadata_CTF.md) |
 | 🛡️ PicoCTF Lab Walkthrough – Inspect HTML | PicoCTF | Easy | [Open](PicoCTF/Easy/02_Inspect_HTML.md) |
