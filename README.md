@@ -175,7 +175,6 @@ Each report includes:
 | 🟩Tomcat Ghost – TryHackMe(THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/tomcat_ghost.md) |
 | 🟩VulnNet Internal – TryHackMe(THM) Walkthrough Report | TryHackMe | Easy | [Open](TryHackMe/Easy/VulnNet_Internal.md) |
 | Cybersecurity Report: Penetration Testing of Linux Agency CTF Environment | TryHackMe | Medium | [Open](TryHackMe/Medium/Linux_Agency/Part_1.md) |
-| Utech – TryHackMe VAPT Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/UltraTech.md) |
 | Vulnerability Assessment and Penetration Testing (VAPT) Report – Wonderland | TryHackMe | Medium | [Open](TryHackMe/Medium/Rabbit_Hole.md) |
 | Year of the Rabbit – TryHackMe VAPT Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/Year_Of_The_Rabbit.md) |
 | 🟩Classic-passwd - Try Hack Me (THM) Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/Classic_passwd.md) |
@@ -183,6 +182,7 @@ Each report includes:
 | 🟩GoldenEye – Try Hack Me (THM) Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/Golden_Eye.md) |
 | 🟩HA Joker - Try Hack Me (THM) Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/HA_Joker.md) |
 | 🟩RSA Breaker – Try Hack Me (THM) Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/RSA_breaker.md) |
+| 🟩Utech – Try Hack Me (THM) Walkthrough Report | TryHackMe | Medium | [Open](TryHackMe/Medium/UltraTech.md) |
 
 ---
 
