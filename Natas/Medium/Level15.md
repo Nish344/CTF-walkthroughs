@@ -3,7 +3,7 @@
 **Prepared by:** Nishanth Antony  
 **Date:** November 09, 2025  
 **Difficulty:** Medium  
-**Category:** Web Exploitation – SQL Injection  
+**Category:** Web Exploitation (SQL Injection)  
 **Platform:** Over The Wire  
 
 ---
